@@ -1,6 +1,6 @@
-## Code by Ivan Prates with the help of Kevin Mulder
-## February 2018
-## Smithsonian National Museum of Natural History, Washington DC, USA
+### This script's goal is to prepare and filter by MAP the SNP data for sNMF analyses.
+### By Ivan Prates with the help of Kevin P. Mulder, June 2018.
+### Smithsonian National Museum of Natural History, Washington DC, USA.
 
 # Filtering SNPs by MAF and then extracting one SNP per locus for SNMF analyses
 # From Ipyrad vcf format output file

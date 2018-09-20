@@ -1,6 +1,7 @@
 ### This script's goal is to run genetic clustering analyses (using SNMF) solely for candidate SNPs recovered by LFMM.
 ### It will also make bar plots based on the ancestry coefficients.
-### Written by Ivan Prates and Anna Penna, June 2018.
+### By Ivan Prates and Anna Penna, June 2018.
+### Smithsonian National Museum of Natural History, Washington DC, USA.
 
 ## Part 1: Getting ready
 

@@ -1,5 +1,6 @@
 ### This script's goal is to run PCA analyses based on genetic (using the LEA package) and environmental data.
-### Written by Ivan Prates and Anna Penna, June 2018.
+### By Ivan Prates and Anna Penna, June 2018.
+### Smithsonian National Museum of Natural History, Washington DC, USA.
 
 ## Part 1: Getting ready
 

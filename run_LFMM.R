@@ -1,5 +1,6 @@
-### R script for environmental association analyses using LFMM (LEA package)
-### Written by Ivan Prates and Anna Penna, June 2018
+### R script for environmental association analyses using LFMM (LEA package).
+### By Ivan Prates and Anna Penna, June 2018.
+### Smithsonian National Museum of Natural History, Washington DC, USA.
 
 # To get the last version of LEA
 #install.packages("devtools")
