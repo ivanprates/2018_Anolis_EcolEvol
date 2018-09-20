@@ -7,17 +7,17 @@
 #devtools::install_github("bcm-uga/LEA")
 
 # Other packages we'll need:
-#install.packages("magrittr")
-#install.packages("tidyr")
-#install.packages("plyr")
 #install.packages("dplyr")
+#install.packages("magrittr")
+#install.packages("plyr")
+#install.packages("tidyr")
 
 # Load packages
 library(LEA)
-library(magrittr)
-library(tidyr)
-library(plyr)
 library(dplyr)
+library(magrittr)
+library(plyr)
+library(tidyr)
 
 # Pick general path, depending on which computer I'm working from:
 path = "~/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/"
