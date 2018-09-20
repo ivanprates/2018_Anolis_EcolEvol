@@ -4,38 +4,41 @@
 ### Smithsonian National Museum of Natural History, Washington DC, USA.
 
 ## Part 1: Getting ready
+
 # Load packages
-library(LEA)
-library(plyr)
-library(tidyr)
-library(magrittr)
-library(ggplot2)
 library(cowplot)
 library(dplyr)
+library(ggplot2)
+library(LEA)
+library(magrittr)
+library(plyr)
+library(tidyr)
 
 # Set target species
 #sp = "ortonii"
 sp = "punctatus"
 
-# Settings for each species (this is very specific to my dataset, e.g., how I named my individuals)
+# Settings for each species (this is very specific to my dataset, e.g., how I named my individual samples)
 if (sp == "ortonii") {
-  n = 23
-  sp.short = "orto_"
+  n = 23 # number of sampled individuals
+  sp.short = "orto_" # That's how I named species during GBS library sequencing
   myPalette = c("#440154", "#fde725") # Color palette for plots
   bestK = 2 # best K, defined based on results (added here just to make final plots)
   a = 100 # SNMF regularization parameter (alpha), defined based on results (added here just to make final plots)
   } else {
-  n = 46
-  sp.short = "punc_"
-  myPalette = c("#fde725", "#35b779", "#440154")
+  n = 46 # number of sampled individuals
+  sp.short = "punc_" # That's how I named species during GBS library sequencing
+  myPalette = c("#fde725", "#35b779", "#440154") # Color palette for plots
   bestK = 3 # best K, defined based on results (added here just to make final plots)
   a = 100 # SNMF regularization parameter (alpha), defined based on results (added here just to make final plots)
   }
 
-# Set minimum read length
+# Set minimum read length 
+# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here)
 t = 70
 
 # Set maximum number of SNPs per locus
+# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here)
 s = 10
 
 # Pick general path, depending on which computer I'm working at:
@@ -44,7 +47,7 @@ path = "~/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/"
 # Create a directory to place resulting SNMF bar plots
 dir.create(paste0(path, "LEA/plots_SNMF_all_SNPs"))
 
-# Create a directory for the outputs of SNMF analyses
+# Create a directory for the outputs of SNMF analyses. Notice that I name directories by indicating parameter settings!
 dir.create(paste0(path, "LEA/SNMF_", sp, "_t", t, "_s", s, "_n", n, "_a", a, "_all_SNPs"))
 
 # Set this new directory as the working directory

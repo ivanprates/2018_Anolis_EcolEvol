@@ -1,4 +1,4 @@
-### This script's goal is to prepare and filter by MAP the SNP data for sNMF analyses.
+### This script's goal is to filter the SNP data by MAP using VCFTools and get them ready for sNMF analyses.
 ### By Ivan Prates with the help of Kevin P. Mulder, June 2018.
 ### Smithsonian National Museum of Natural History, Washington DC, USA.
 
@@ -6,8 +6,7 @@
 # From Ipyrad vcf format output file
 
 # opening a loop to repeat over species:
-#for s in ortonii_t70_s10_n23 # punctatus_t80_s10_n47 # list target taxa
-for s in punctatus_t70_s10_n46 # list target taxa
+for s in ortonii_t70_s10_n23 punctatus_t70_s10_n46 # list target taxa and assembly settings
 do
 
 # create a folder and change directory to that new folder

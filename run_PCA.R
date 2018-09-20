@@ -5,12 +5,13 @@
 ## Part 1: Getting ready
 
 # Load packages
+library(cowplot)
+library(dplyr)
 library(ggplot2)
 library(LEA)
 library(magrittr)
 library(plyr)
-library(viridis)
-library(cowplot)
+library(tidyr)
 
 ## Running PCA on the 
 

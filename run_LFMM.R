@@ -26,20 +26,22 @@ path = "~/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/"
 #sp = "ortonii"
 sp = "punctatus"
 
-# Set minimum read length
+# Set minimum read length 
+# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here)
 t = 70
 
 # Set maximum number of SNPs per locus
+# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here)
 s = 10
 
-# Settings for each species (this is very specific to my dataset, e.g., how I named my individuals)
+# Settings for each species (this is very specific to my dataset, e.g., how I named my individual samples)
 if (sp == "ortonii") {
-  sp.short = "orto_" # This is to find sequences as I named them during GBS library sequencing
+  sp.short = "orto_" # That's how I named species during GBS library sequencing
   n = 23
   bestK = 2 # From sNMF clustering analyses
   K = 2 # Best K for controlling false-discovery rates based on genomic inflation factor (see below)
 } else {
-  sp.short = "punc_" # This is to find sequences as named during GBS library sequencing
+  sp.short = "punc_" # That's how I named species during GBS library sequencing
   n = 46
   bestK = 3 # From sNMF clustering analyses
   K = 5 # Best K for controlling false-discovery rates based on genomic inflation factor (see below)
@@ -83,7 +85,7 @@ envdata.name = "pc1" # This is just to name output files
 
 ## PART 2: Getting the data ready and a few checkpoints
 
-# Create a directory for the outputs of LEA analyses
+# Create a directory for the outputs of LEA analyses. Notice that I name directories by indicating parameter settings!
 dir.create(paste0(path, "LEA/LFMM_", sp, "_t", t, "_s", s, "_n", n, "_", envdata.name, "_v", n.var, "_k", K))
 
 # Set this new directory as the working directory
@@ -100,7 +102,7 @@ individuals$V1 %<>% gsub(pattern = sp.short, replacement = "", .) # removes "pun
 rownames(gendata) = individuals$V1 # change row names to sample IDs
 rownames(gendata) == rownames(envdata) # checking whether genetic and environmental data (and their order) match; should all be "TRUE"
 
-# Create list of loci that will serve as a SNP map when retrieving sequences to blast
+# Create list of loci that will serve as a SNP map when retrieving sequences to blast later
 loci = read.table(file = paste0(path, "data/VCFtools_LFMM_", sp, "_t", t, "_s", s, "_n", n, "/", sp, "_t", t, "_s", s, "_n", n, "_MAF10_LFMM.012.pos")) # read list of locus IDs from VCFtools
 names(loci) = c("locus.name", "SNP.position") # add column names
 loci$locus.name %<>% gsub(pattern = "locus_", replacement = "", .) # removes "locus_" from loci names. "." denotes object (loci) when using "%<>%"
@@ -113,7 +115,7 @@ length(unique(loci$locus.name)) # How many loci?
 colnames(gendata) = loci$locus.name # change column names to locus IDs
 length(gendata) == length(loci$locus.name) # checking whether number of loci is the same in .pos file and gendata object; should all be "TRUE"
 
-# Write down data in LFMM format (LEA saves it all outside R, instead of as objects)
+# Write down data in LFMM format (LEA saves it all outside R, instead of as R objects)
 write.lfmm(gendata, "genotypes.lfmm")
 write.env(envdata.used, "gradients.env")
 
@@ -127,7 +129,7 @@ best = which.min(cross.entropy(project.missing, K = bestK)) # best run from repl
 impute(project.missing, "genotypes.lfmm", method = "mode", K = bestK, run = best)
 
 # Renaming imputed file to change "." for "_", which for some reason was causing R Studio to abort!!
-# This may not be a problem for people not using Linux or using other versions of R/RStudio
+# This may not be a problem for people not using Linux or using other versions of R and RStudio
 file.rename("genotypes.lfmm_imputed.lfmm", "genotypes_lfmm_imputed.lfmm")
 
 ## PART 3: Running genome-environment association analyses using LFMM (LEA package)
@@ -142,16 +144,16 @@ save.image(file = paste0(sp, ".RData"))
 ## PART 4: Compute Z scores and adjusted p-values
 
 # Set false discovery rate (FDR) level
-q = 0.00001 # Experiment with these values!
+q = 0.00001
 
 # Estimating z-scores
 zs = z.scores(project, K = K) # Estimate z-scores
 zs.median = apply(zs, MARGIN = 1, median) # Estimate median z-score across repetitions
 
 # The median z-scores must be recalibrated before computing p-values, which is done using a rescaling factor, lambda
-# Two ways of setting lambda
+# Two ways of setting lambda:
 
-# WAY 1: If setting lambda as the Genomic Inflation Factor (GIF), it's value should be close or slightly lower than 1
+# WAY 1: If setting lambda as the Genomic Inflation Factor (GIF), it's value should be close or slightly lower than 1.
 # Setting lambda as GIF:
 lambda = median(zs.median^2)/qchisq(0.5, df = 1) 
 
@@ -185,7 +187,7 @@ str(candidates.list) # how many candidate SNPs did we get?
 save.image(file = paste0(sp, ".RData"))
 
 ## PART 5: Extract the sequences of loci that harbor the candidate SNPs flagged by LFMM
-# This part is very specific to Ipyrad and VCFtools outputs and the way I organized my files!
+# This part is very specific to ipyrad and VCFtools outputs and the way I organized my files!
 
 # Using loci object as a SNP map, extract those loci hosting candidate SNPs flagged by LFMM, keeping only unique entries for each locus
 flagged.list = unique(loci[loci$SNP.number %in% candidates.list, ]$locus.name) # using candidate SNPs from LFMM as a mask to extract their corresponding loci

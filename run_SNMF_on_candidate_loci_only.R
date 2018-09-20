@@ -6,12 +6,13 @@
 ## Part 1: Getting ready
 
 # Load packages
+library(cowplot)
+library(dplyr)
+library(ggplot2)
 library(LEA)
+library(magrittr)
 library(plyr)
 library(tidyr)
-library(magrittr)
-library(ggplot2)
-library(cowplot)
 
 # Set target species
 #sp = "ortonii"
