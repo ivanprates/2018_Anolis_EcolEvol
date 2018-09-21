@@ -1,0 +1,13 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf punctatus_t70_s10_n46_MAF10_LFMM.recode.vcf
+	--012
+	--out punctatus_t70_s10_n46_MAF10_LFMM
+
+After filtering, kept 46 out of 46 Individuals
+Writing 012 matrix files ... Done.
+After filtering, kept 3249 out of a possible 3249 Sites
+Run Time = 0.00 seconds

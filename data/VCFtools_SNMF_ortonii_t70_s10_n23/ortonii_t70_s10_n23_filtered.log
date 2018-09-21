@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /Users/dequeirk/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/data/ortonii_t70_s10_n23_outfiles/ortonii_t70_s10_n23.vcf
+	--maf 0.1
+	--max-alleles 2
+	--min-alleles 2
+	--out ortonii_t70_s10_n23_filtered
+	--recode
+
+After filtering, kept 23 out of 23 Individuals
+Outputting VCF file...
+After filtering, kept 3412 out of a possible 43876 Sites
+Run Time = 1.00 seconds

@@ -1,0 +1,95 @@
+
+
+## The number of loci caught by each filter.
+## ipyrad API location: [assembly].stats_dfs.s7_filters
+
+                            total_filters  applied_order  retained_loci
+total_prefiltered_loci             122458              0         122458
+filtered_by_rm_duplicates            8349           8349         114109
+filtered_by_max_indels                 58             58         114051
+filtered_by_max_snps                  435             60         113991
+filtered_by_max_shared_het            282            206         113785
+filtered_by_min_sample             118495         110582           3203
+filtered_by_max_alleles              8957             45           3158
+total_filtered_loci                  3158              0           3158
+
+
+## The number of loci recovered for each Sample.
+## ipyrad API location: [assembly].stats_dfs.s7_samples
+
+                   sample_coverage
+punc_BM288                    3158
+punc_GN71                     3158
+punc_H1907                    3158
+punc_H1911                    3158
+punc_H2546                    3158
+punc_IBSPCRIB0361             3158
+punc_JFT459                   3158
+punc_JFT773                   3158
+punc_LG1299                   3158
+punc_LSUMZH14336              3158
+punc_MPEG21348                3158
+punc_MPEG24758                3158
+punc_MPEG29943                3158
+punc_MTRX1468                 3158
+punc_UNIBAN1670               3158
+
+
+## The number of loci for which N taxa have data.
+## ipyrad API location: [assembly].stats_dfs.s7_loci
+
+    locus_coverage  sum_coverage
+1                0             0
+2                0             0
+3                0             0
+4                0             0
+5                0             0
+6                0             0
+7                0             0
+8                0             0
+9                0             0
+10               0             0
+11               0             0
+12               0             0
+13               0             0
+14               0             0
+15            3158          3158
+
+
+## The distribution of SNPs (var and pis) per locus.
+## var = Number of loci with n variable sites (pis + autapomorphies)
+## pis = Number of loci with n parsimony informative site (minor allele in >1 sample)
+## ipyrad API location: [assembly].stats_dfs.s7_snps
+
+    var  sum_var  pis  sum_pis
+0   199        0  798        0
+1   393      393  873      873
+2   476     1345  654     2181
+3   557     3016  433     3480
+4   484     4952  231     4404
+5   373     6817   98     4894
+6   268     8425   51     5200
+7   176     9657   13     5291
+8   121    10625    5     5331
+9    70    11255    2     5349
+10   41    11665    0     5349
+
+
+## Final Sample stats summary
+
+                   state  reads_raw  reads_passed_filter  clusters_total  clusters_hidepth  hetero_est  error_est  reads_consens  loci_in_assembly
+punc_BM288             7    3332706              2297835          159606             42247    0.008657   0.004337          40235              3158
+punc_GN71              7    2489813              1657831          139510             34637    0.007571   0.004926          32962              3158
+punc_H1907             7    3262253              2330677          167802             43586    0.010968   0.004285          41458              3158
+punc_H1911             7    5645229              3801717          218695             58337    0.008520   0.003968          55849              3158
+punc_H2546             7    3597206              2582053          172187             44762    0.010323   0.004200          42712              3158
+punc_IBSPCRIB0361      7    1166262               773526           91894             14966    0.007357   0.005568          13967              3158
+punc_JFT459            7    2243652              1409569          120826             28435    0.007302   0.004510          27006              3158
+punc_JFT773            7    2601922              1690593          137922             33844    0.006550   0.004980          32281              3158
+punc_LG1299            7    2606515              1693553          139028             30824    0.007187   0.005058          29224              3158
+punc_LSUMZH14336       7    3393839              2310682          166286             42439    0.009317   0.004511          40444              3158
+punc_MPEG21348         7    1167275               754307           97052             16210    0.008957   0.005530          15109              3158
+punc_MPEG24758         7    1750190              1161387          118066             25409    0.010549   0.004698          23931              3158
+punc_MPEG29943         7    1430730              1006666          113500             22454    0.009566   0.005024          21076              3158
+punc_MTRX1468          7    1310488               793643           91824             15103    0.008560   0.005032          14059              3158
+punc_UNIBAN1670        7    5430248              4105054          165320             39151    0.008649   0.004839          37126              3158

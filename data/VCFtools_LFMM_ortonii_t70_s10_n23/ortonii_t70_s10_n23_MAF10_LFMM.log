@@ -1,0 +1,13 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf ortonii_t70_s10_n23_MAF10_LFMM.recode.vcf
+	--012
+	--out ortonii_t70_s10_n23_MAF10_LFMM
+
+After filtering, kept 23 out of 23 Individuals
+Writing 012 matrix files ... Done.
+After filtering, kept 3412 out of a possible 3412 Sites
+Run Time = 0.00 seconds

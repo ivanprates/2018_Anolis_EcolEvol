@@ -1,0 +1,119 @@
+
+
+## The number of loci caught by each filter.
+## ipyrad API location: [assembly].stats_dfs.s7_filters
+
+                            total_filters  applied_order  retained_loci
+total_prefiltered_loci              98164              0          98164
+filtered_by_rm_duplicates            7157           7157          91007
+filtered_by_max_indels                 90             90          90917
+filtered_by_max_snps                 1884            984          89933
+filtered_by_max_shared_het            998            653          89280
+filtered_by_min_sample              86973          80667           8613
+filtered_by_max_alleles              8887             63           8550
+total_filtered_loci                  8550              0           8550
+
+
+## The number of loci recovered for each Sample.
+## ipyrad API location: [assembly].stats_dfs.s7_samples
+
+                  sample_coverage
+orto_BM028                   8428
+orto_BM565                   8474
+orto_H2026                   8445
+orto_H2594                   8471
+orto_LSUMZH12993             8460
+orto_LSUMZH13904             8471
+orto_LSUMZH14099             8008
+orto_LSUMZH14163             8419
+orto_LSUMZH14304             8395
+orto_MPEG25699               7395
+orto_MPEG27688               8294
+orto_MPEG29325               6240
+orto_MPEG29465               7684
+orto_MTR09910                8477
+orto_MTR12160                8490
+orto_MTR12291                7950
+orto_MTR18907                8504
+orto_MTR19241                8469
+orto_MTR28130                8464
+orto_MTR34278                8483
+orto_MTR34436                8495
+orto_MTR977671               8360
+orto_UFAC0085                8433
+
+
+## The number of loci for which N taxa have data.
+## ipyrad API location: [assembly].stats_dfs.s7_loci
+
+    locus_coverage  sum_coverage
+1                0             0
+2                0             0
+3                0             0
+4                0             0
+5                0             0
+6                0             0
+7                0             0
+8                0             0
+9                0             0
+10               0             0
+11               0             0
+12               0             0
+13               0             0
+14               0             0
+15               0             0
+16               0             0
+17               0             0
+18               0             0
+19               0             0
+20               0             0
+21            2254          2254
+22            2833          5087
+23            3463          8550
+
+
+## The distribution of SNPs (var and pis) per locus.
+## var = Number of loci with n variable sites (pis + autapomorphies)
+## pis = Number of loci with n parsimony informative site (minor allele in >1 sample)
+## ipyrad API location: [assembly].stats_dfs.s7_snps
+
+     var  sum_var   pis  sum_pis
+0    128        0  3262        0
+1    434      434  2873     2873
+2    773     1980  1496     5865
+3   1072     5196   623     7734
+4   1234    10132   203     8546
+5   1234    16302    69     8891
+6   1107    22944    21     9017
+7    919    29377     3     9038
+8    747    35353     0     9038
+9    497    39826     0     9038
+10   405    43876     0     9038
+
+
+## Final Sample stats summary
+
+                  state  reads_raw  reads_passed_filter  clusters_total  clusters_hidepth  hetero_est  error_est  reads_consens  loci_in_assembly
+orto_BM028            7    5213176              4248549          211641             57316    0.010664   0.004617          54169              8428
+orto_BM565            7    4892898              4138655          227778             59589    0.010711   0.004624          56275              8474
+orto_H2026            7    2751224              2282374          161848             43390    0.009954   0.004933          40961              8445
+orto_H2594            7    5797288              4837208          240768             63453    0.010078   0.004291          60052              8471
+orto_LSUMZH12993      7    3623025              3035185          189976             51692    0.010256   0.004698          48879              8460
+orto_LSUMZH13904      7    3722320              3053898          190672             49173    0.011086   0.004834          46251              8471
+orto_LSUMZH14099      7    1684565              1378572          133764             25783    0.012654   0.005744          23689              8008
+orto_LSUMZH14163      7    4916881              4109806          222822             54284    0.010077   0.004967          51162              8419
+orto_LSUMZH14304      7    2563408              2104416          153495             37850    0.011977   0.004806          35285              8395
+orto_MPEG25699        7    1358795              1060143          117184             19602    0.014729   0.005696          17812              7395
+orto_MPEG27688        7    2313048              1943441          161774             33531    0.009773   0.005705          31270              8294
+orto_MPEG29325        7    1051967               825606           91639             15050    0.015216   0.006076          13511              6240
+orto_MPEG29465        7    1460233              1197493          113729             22763    0.012987   0.005268          20887              7684
+orto_MTR09910         7    3820292              3121715          198877             51425    0.007644   0.004773          48885              8477
+orto_MTR12160         7    3905766              3237537          175939             49621    0.007638   0.004639          47180              8490
+orto_MTR12291         7    1585153              1271414          119983             23320    0.010451   0.005187          21505              7950
+orto_MTR18907         7    4611834              3809977          206835             55667    0.010869   0.004565          52649              8504
+orto_MTR19241         7    3889572              3199429          190144             50672    0.011359   0.004773          47697              8469
+orto_MTR28130         7    4204603              3481880          204116             55063    0.010336   0.004745          52101              8464
+orto_MTR34278         7    5622605              4608522          230538             56605    0.008287   0.004740          53642              8483
+orto_MTR34436         7    5267918              4377123          214739             58232    0.008066   0.004346          55448              8495
+orto_MTR977671        7    2883269              2289995          153861             37763    0.010384   0.004751          35485              8360
+orto_UFAC0085         7    2651656              2179030          157821             38384    0.011672   0.005113          35880              8433

@@ -1,0 +1,13 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf punctatus_t70_s10_n46_1SNP-locus.vcf
+	--012
+	--out punctatus_t70_s10_n46_1SNP-locus
+
+After filtering, kept 46 out of 46 Individuals
+Writing 012 matrix files ... Done.
+After filtering, kept 1920 out of a possible 1920 Sites
+Run Time = 0.00 seconds
