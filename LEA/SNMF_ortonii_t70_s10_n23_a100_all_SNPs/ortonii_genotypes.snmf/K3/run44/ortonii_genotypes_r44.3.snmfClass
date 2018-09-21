@@ -1,0 +1,19 @@
+new("snmfClass"
+    , directory = "K3/run44/"
+    , snmfClass.file = "ortonii_genotypes_r44.3.snmfClass"
+    , K = 3L
+    , run = 44L
+    , CPU = 12L
+    , seed = 2098213992L
+    , alpha = 100
+    , percentage = 0.05
+    , I = 0L
+    , iterations = 200L
+    , entropy = TRUE
+    , tolerance = 1e-05
+    , crossEntropy = 0.742883195091182
+    , ploidy = 2L
+    , Q.input.file = ""
+    , Q.output.file = "ortonii_genotypes_r44.3.Q"
+    , G.output.file = "ortonii_genotypes_r44.3.G"
+)

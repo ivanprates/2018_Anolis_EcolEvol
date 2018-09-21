@@ -1,0 +1,19 @@
+new("snmfClass"
+    , directory = "K3/run95/"
+    , snmfClass.file = "punctatus_genotypes_r95.3.snmfClass"
+    , K = 3L
+    , run = 95L
+    , CPU = 12L
+    , seed = 1951884910L
+    , alpha = 100
+    , percentage = 0.05
+    , I = 0L
+    , iterations = 200L
+    , entropy = TRUE
+    , tolerance = 1e-05
+    , crossEntropy = 0.426700976417213
+    , ploidy = 2L
+    , Q.input.file = ""
+    , Q.output.file = "punctatus_genotypes_r95.3.Q"
+    , G.output.file = "punctatus_genotypes_r95.3.G"
+)

@@ -1,0 +1,15 @@
+new("pcaProject"
+    , projDir = "/Users/dequeirk/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/LEA/PCA_punctatus_t70_s10_n46_all_SNPs/"
+    , pcaDir = "punctatus_genotypes.pca/"
+    , n = 46L
+    , L = 3249L
+    , K = 46L
+    , center = TRUE
+    , scale = FALSE
+    , pcaProject.file = "punctatus_genotypes.pcaProject"
+    , input.file = "punctatus_genotypes.lfmm"
+    , eigenvalue.file = "punctatus_genotypes.eigenvalues"
+    , eigenvector.file = "punctatus_genotypes.eigenvectors"
+    , sdev.file = "punctatus_genotypes.sdev"
+    , projection.file = "punctatus_genotypes.projections"
+)

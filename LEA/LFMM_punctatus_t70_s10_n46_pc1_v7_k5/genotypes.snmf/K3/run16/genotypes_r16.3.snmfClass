@@ -1,0 +1,19 @@
+new("snmfClass"
+    , directory = "K3/run16/"
+    , snmfClass.file = "genotypes_r16.3.snmfClass"
+    , K = 3L
+    , run = 16L
+    , CPU = 1L
+    , seed = 1050736699L
+    , alpha = 10
+    , percentage = 0.05
+    , I = 0L
+    , iterations = 200L
+    , entropy = TRUE
+    , tolerance = 1e-05
+    , crossEntropy = 0.447902718585312
+    , ploidy = 2L
+    , Q.input.file = ""
+    , Q.output.file = "genotypes_r16.3.Q"
+    , G.output.file = "genotypes_r16.3.G"
+)

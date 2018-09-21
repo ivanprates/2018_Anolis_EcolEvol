@@ -1,0 +1,19 @@
+new("snmfClass"
+    , directory = "K4/run22/"
+    , snmfClass.file = "punctatus_genotypes_r22.4.snmfClass"
+    , K = 4L
+    , run = 22L
+    , CPU = 12L
+    , seed = 1646192750L
+    , alpha = 100
+    , percentage = 0.05
+    , I = 0L
+    , iterations = 200L
+    , entropy = TRUE
+    , tolerance = 1e-05
+    , crossEntropy = 0.453063725538231
+    , ploidy = 2L
+    , Q.input.file = ""
+    , Q.output.file = "punctatus_genotypes_r22.4.Q"
+    , G.output.file = "punctatus_genotypes_r22.4.G"
+)

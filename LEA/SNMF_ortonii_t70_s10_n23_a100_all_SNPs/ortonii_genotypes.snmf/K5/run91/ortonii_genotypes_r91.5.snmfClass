@@ -1,0 +1,19 @@
+new("snmfClass"
+    , directory = "K5/run91/"
+    , snmfClass.file = "ortonii_genotypes_r91.5.snmfClass"
+    , K = 5L
+    , run = 91L
+    , CPU = 12L
+    , seed = 464785145L
+    , alpha = 100
+    , percentage = 0.05
+    , I = 0L
+    , iterations = 200L
+    , entropy = TRUE
+    , tolerance = 1e-05
+    , crossEntropy = 0.811094710359785
+    , ploidy = 2L
+    , Q.input.file = ""
+    , Q.output.file = "ortonii_genotypes_r91.5.Q"
+    , G.output.file = "ortonii_genotypes_r91.5.G"
+)

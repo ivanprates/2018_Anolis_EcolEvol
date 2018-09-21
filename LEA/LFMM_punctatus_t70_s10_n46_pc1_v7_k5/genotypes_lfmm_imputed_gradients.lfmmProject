@@ -1,0 +1,22 @@
+new("lfmmProject"
+    , lfmmProject.file = "genotypes_lfmm_imputed_gradients.lfmmProject"
+    , projDir = "/Users/dequeirk/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/LEA/LFMM_punctatus_t70_s10_n46_pc1_v7_k5/"
+    , lfmmDir = "genotypes_lfmm_imputed_gradients.lfmm/"
+    , input.file = "genotypes_lfmm_imputed.lfmm"
+    , environment.file = "gradients.env"
+    , runs = list()
+    , K = c(5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L)
+    , d = c(1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L)
+    , all = c(FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, 
+FALSE)
+    , lfmmClass.files = c("K5/run1/genotypes_lfmm_imputed_r1_s1.5.lfmmClass", "K5/run2/genotypes_lfmm_imputed_r2_s1.5.lfmmClass", 
+"K5/run3/genotypes_lfmm_imputed_r3_s1.5.lfmmClass", "K5/run4/genotypes_lfmm_imputed_r4_s1.5.lfmmClass", 
+"K5/run5/genotypes_lfmm_imputed_r5_s1.5.lfmmClass", "K5/run6/genotypes_lfmm_imputed_r6_s1.5.lfmmClass", 
+"K5/run7/genotypes_lfmm_imputed_r7_s1.5.lfmmClass", "K5/run8/genotypes_lfmm_imputed_r8_s1.5.lfmmClass", 
+"K5/run9/genotypes_lfmm_imputed_r9_s1.5.lfmmClass", "K5/run10/genotypes_lfmm_imputed_r10_s1.5.lfmmClass"
+)
+    , n = 46L
+    , L = 3249L
+    , D = 1L
+    , creationTime = structure(1529447980.05348, class = c("POSIXct", "POSIXt"))
+)

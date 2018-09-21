@@ -1,0 +1,22 @@
+new("lfmmProject"
+    , lfmmProject.file = "genotypes_lfmm_imputed_gradients.lfmmProject"
+    , projDir = "/Users/dequeirk/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/LEA/LFMM_ortonii_t70_s10_n23_pc1_v7_k2/"
+    , lfmmDir = "genotypes_lfmm_imputed_gradients.lfmm/"
+    , input.file = "genotypes_lfmm_imputed.lfmm"
+    , environment.file = "gradients.env"
+    , runs = list()
+    , K = c(2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L)
+    , d = c(1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L)
+    , all = c(FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, 
+FALSE)
+    , lfmmClass.files = c("K2/run1/genotypes_lfmm_imputed_r1_s1.2.lfmmClass", "K2/run2/genotypes_lfmm_imputed_r2_s1.2.lfmmClass", 
+"K2/run3/genotypes_lfmm_imputed_r3_s1.2.lfmmClass", "K2/run4/genotypes_lfmm_imputed_r4_s1.2.lfmmClass", 
+"K2/run5/genotypes_lfmm_imputed_r5_s1.2.lfmmClass", "K2/run6/genotypes_lfmm_imputed_r6_s1.2.lfmmClass", 
+"K2/run7/genotypes_lfmm_imputed_r7_s1.2.lfmmClass", "K2/run8/genotypes_lfmm_imputed_r8_s1.2.lfmmClass", 
+"K2/run9/genotypes_lfmm_imputed_r9_s1.2.lfmmClass", "K2/run10/genotypes_lfmm_imputed_r10_s1.2.lfmmClass"
+)
+    , n = 23L
+    , L = 3412L
+    , D = 1L
+    , creationTime = structure(1529448167.18987, class = c("POSIXct", "POSIXt"))
+)

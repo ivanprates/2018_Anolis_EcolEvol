@@ -1,0 +1,40 @@
+new("snmfProject"
+    , snmfProject.file = "punctatus_genotypes.snmfProject"
+    , projDir = "/Users/dequeirk/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/LEA/SNMF_punctatus_t70_s10_n46_a1000_candidate_SNPs/"
+    , snmfDir = "punctatus_genotypes.snmf/"
+    , input.file = "punctatus_genotypes.geno"
+    , runs = list()
+    , K = c(1L, 2L, 3L, 4L, 5L, 1L, 2L, 3L, 4L, 5L, 1L, 2L, 3L, 4L, 5L, 
+1L, 2L, 3L, 4L, 5L, 1L, 2L, 3L, 4L, 5L, 1L, 2L, 3L, 4L, 5L, 1L, 
+2L, 3L, 4L, 5L, 1L, 2L, 3L, 4L, 5L, 1L, 2L, 3L, 4L, 5L, 1L, 2L, 
+3L, 4L, 5L)
+    , snmfClass.files = c("K1/run1/punctatus_genotypes_r1.1.snmfClass", "K2/run1/punctatus_genotypes_r1.2.snmfClass", 
+"K3/run1/punctatus_genotypes_r1.3.snmfClass", "K4/run1/punctatus_genotypes_r1.4.snmfClass", 
+"K5/run1/punctatus_genotypes_r1.5.snmfClass", "K1/run2/punctatus_genotypes_r2.1.snmfClass", 
+"K2/run2/punctatus_genotypes_r2.2.snmfClass", "K3/run2/punctatus_genotypes_r2.3.snmfClass", 
+"K4/run2/punctatus_genotypes_r2.4.snmfClass", "K5/run2/punctatus_genotypes_r2.5.snmfClass", 
+"K1/run3/punctatus_genotypes_r3.1.snmfClass", "K2/run3/punctatus_genotypes_r3.2.snmfClass", 
+"K3/run3/punctatus_genotypes_r3.3.snmfClass", "K4/run3/punctatus_genotypes_r3.4.snmfClass", 
+"K5/run3/punctatus_genotypes_r3.5.snmfClass", "K1/run4/punctatus_genotypes_r4.1.snmfClass", 
+"K2/run4/punctatus_genotypes_r4.2.snmfClass", "K3/run4/punctatus_genotypes_r4.3.snmfClass", 
+"K4/run4/punctatus_genotypes_r4.4.snmfClass", "K5/run4/punctatus_genotypes_r4.5.snmfClass", 
+"K1/run5/punctatus_genotypes_r5.1.snmfClass", "K2/run5/punctatus_genotypes_r5.2.snmfClass", 
+"K3/run5/punctatus_genotypes_r5.3.snmfClass", "K4/run5/punctatus_genotypes_r5.4.snmfClass", 
+"K5/run5/punctatus_genotypes_r5.5.snmfClass", "K1/run6/punctatus_genotypes_r6.1.snmfClass", 
+"K2/run6/punctatus_genotypes_r6.2.snmfClass", "K3/run6/punctatus_genotypes_r6.3.snmfClass", 
+"K4/run6/punctatus_genotypes_r6.4.snmfClass", "K5/run6/punctatus_genotypes_r6.5.snmfClass", 
+"K1/run7/punctatus_genotypes_r7.1.snmfClass", "K2/run7/punctatus_genotypes_r7.2.snmfClass", 
+"K3/run7/punctatus_genotypes_r7.3.snmfClass", "K4/run7/punctatus_genotypes_r7.4.snmfClass", 
+"K5/run7/punctatus_genotypes_r7.5.snmfClass", "K1/run8/punctatus_genotypes_r8.1.snmfClass", 
+"K2/run8/punctatus_genotypes_r8.2.snmfClass", "K3/run8/punctatus_genotypes_r8.3.snmfClass", 
+"K4/run8/punctatus_genotypes_r8.4.snmfClass", "K5/run8/punctatus_genotypes_r8.5.snmfClass", 
+"K1/run9/punctatus_genotypes_r9.1.snmfClass", "K2/run9/punctatus_genotypes_r9.2.snmfClass", 
+"K3/run9/punctatus_genotypes_r9.3.snmfClass", "K4/run9/punctatus_genotypes_r9.4.snmfClass", 
+"K5/run9/punctatus_genotypes_r9.5.snmfClass", "K1/run10/punctatus_genotypes_r10.1.snmfClass", 
+"K2/run10/punctatus_genotypes_r10.2.snmfClass", "K3/run10/punctatus_genotypes_r10.3.snmfClass", 
+"K4/run10/punctatus_genotypes_r10.4.snmfClass", "K5/run10/punctatus_genotypes_r10.5.snmfClass"
+)
+    , n = 46L
+    , L = 90L
+    , creationTime = structure(1529959319.06058, class = c("POSIXct", "POSIXt"))
+)

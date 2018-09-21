@@ -1,0 +1,234 @@
+﻿order,genus,species,genetics,voucher_ID,country,state_province,biome,locality,latitude,longitude,source,bio_1,bio_2,bio_3,bio_4,bio_5,bio_6,bio_7,bio_8,bio_9,bio_10,bio_11,bio_12,bio_13,bio_14,bio_15,bio_16,bio_17,bio_18,bio_19
+1,Anolis,ortonii,no,CAS_93257,Peru,,Amazonia,Colonia Calleria Rio Calleria 15 km from Ucayali,-8.0417,-74.5556,VertNet,265,112,78,563,335,193,142,265,257,270,256,1801,233,59,35,620,226,484,269
+2,Anolis,ortonii,no,CM_64596,Brazil,Para,Amazonia,Oriximina,-1.76,-55.86,VertNet,269,92,80,636,333,219,114,263,278,278,262,2361,380,66,57,1045,213,213,960
+3,Anolis,ortonii,no,FPR-COLOMBIA_24734,Colombia,Amazonas,Amazonia,Leticia Isla Santa Sofia Rio Amazonas,-4.0083,-70.2167,Specieslink CRIA,259,95,85,386,313,202,111,261,254,263,254,2765,315,140,22,882,497,673,568
+4,Anolis,ortonii,no,FPR-COLOMBIA_24735,Colombia,Amazonas,Amazonia,La Pedrera La Pedrera Rio Caqueta,-1.3283,-69.7333,Specieslink CRIA,258,88,87,416,308,207,101,259,254,262,251,3241,367,188,20,1033,607,765,662
+5,Anolis,ortonii,no,H4251,Brazil,Rondonia,Amazonia,UHE Jirau Mutum,-9.5949,-65.0651,Miguel T. Rodrigues,264,106,75,560,335,194,141,262,260,271,257,1774,276,22,59,755,90,425,149
+6,Anolis,ortonii,no,H5121,Brazil,Rondonia,Amazonia,UHE Jirau Abuna,-9.5964,-65.3567,Miguel T. Rodrigues,264,106,75,554,334,194,140,262,259,270,257,1669,276,12,62,730,73,412,124
+7,Anolis,ortonii,no,KU_126738,Ecuador,Napo,Amazonia,Lago Agrio,0.0847,-76.8828,VertNet,247,97,87,419,304,193,111,242,249,252,241,3477,381,215,18,1083,689,854,1004
+8,Anolis,ortonii,no,KU_127093,Ecuador,Pastaza,Amazonia,3 km S Puyo,-1.5,-77.9667,VertNet,213,96,86,471,269,158,111,211,215,217,205,4433,458,298,13,1292,945,1080,1138
+9,Anolis,ortonii,no,KU_140126,Brazil,Para,Amazonia,Belem Capanema,-1.2,-47.1833,VertNet,261,96,80,486,327,208,119,256,266,268,256,2471,450,22,70,1224,98,135,1224
+10,Anolis,ortonii,no,KU_140130,Brazil,Para,Amazonia,Ananindeva Maquari,-1.45,-48.4833,VertNet,269,94,88,298,324,218,106,266,272,272,264,2478,369,86,50,1041,290,290,1031
+11,Anolis,ortonii,no,KU_140133,Brazil,Para,Amazonia,Quatipuru,-0.8667,-46.9833,VertNet,262,93,80,525,327,211,116,256,269,269,256,2596,512,9,81,1404,42,95,1404
+12,Anolis,ortonii,no,KU_183498,Ecuador,Sucumbios,Amazonia,Limoncocha,-0.4,-76.6167,VertNet,248,97,86,425,307,195,112,245,250,253,242,3285,333,215,14,976,690,801,918
+13,Anolis,ortonii,no,KU_215110,Peru,Madre de Dios,Amazonia,Lago Sandoval ca 12 km E Puerto Maldonado,-12.6333,-69.0833,VertNet,254,112,73,1032,327,174,153,261,238,263,238,2191,339,54,55,929,181,702,181
+14,Anolis,ortonii,no,KU_97851,Brazil,Amapa,Amazonia,Serra do Navio,0.9833,-52.05,VertNet,261,86,79,597,323,215,108,256,268,269,253,2471,346,73,44,978,254,333,856
+15,Anolis,ortonii,no,LSUMZH12624,Ecuador,Sucumbios,Amazonia,Reserva Faunistica Cuyabeno Estacion Biologica de la Universidad Catolica,-0.2172,-75.8069,Google Earth,254,95,86,527,310,200,110,247,258,259,245,2931,338,155,23,944,504,560,910
+16,Anolis,ortonii,no,MCZ_R-173835,Ecuador,Napo,Amazonia,S. side of Rio Napo 6.5km ESE of Puerto Misahualli at La Cruz Blanca on Jatun Sacha Biol. Re. 450 m.,-1.0534,-77.6022,VertNet,239,99,88,413,296,184,112,235,241,243,233,3660,417,199,22,1197,679,895,1150
+17,Anolis,ortonii,no,MCZ_R-174430,Ecuador,Orellana,Amazonia,4km N. of Anangu on Garza Cocha at Hosteria La Selve [VERBATIM ELEVATION:260m.],-0.5867,-76.3354,VertNet,251,97,86,482,309,197,112,248,254,255,244,3114,329,192,16,938,613,733,841
+18,Anolis,ortonii,no,MCZ_R-57043,Peru,Loreto,Amazonia,Lower Rio Cushabatay Ucayali R. Valley Peru,-7.3034,-75.3354,VertNet,268,120,83,503,338,194,144,268,261,273,260,1738,210,74,32,548,242,519,264
+19,Anolis,ortonii,no,MCZ_R-57044,Peru,Amazonas,Amazonia,mouth of Rio Santiago Maranon R. valley Peru,-4.4167,-77.6333,VertNet,267,96,86,376,324,213,111,268,262,271,261,2577,255,173,11,726,548,658,572
+20,Anolis,ortonii,no,MCZ_R-57045,Peru,Loreto,Amazonia,Pampa Hermosanr mouth of Rio Cushabatay Peru,-7.2,-75.3,VertNet,269,119,82,501,339,195,144,273,262,273,261,1693,205,68,34,535,228,518,251
+21,Anolis,ortonii,no,MPEG26941,Brazil,Amazonas,Amazonia,Coari: Porto Urucu,-4.8854,-65.35,Museu Paraense Emilio Goeldi,264,91,82,306,320,210,110,264,261,268,260,2659,340,90,39,948,311,576,448
+22,Anolis,ortonii,no,MPEG27088,Brazil,Para,Amazonia,Juruti: Mutum,-2.6094,-56.1961,Museu Paraense Emilio Goeldi,268,90,81,544,331,221,110,263,275,276,263,2207,331,53,58,974,181,222,916
+23,Anolis,ortonii,no,MPEG28256,Brazil,Para,Amazonia,Juruti: road to Barroso,-2.4696,-56.001,Museu Paraense Emilio Goeldi,265,92,81,599,329,216,113,259,272,274,259,2131,327,47,60,945,164,212,881
+24,Anolis,ortonii,no,MTR19122,Brazil,Amazonas,Amazonia,Beruri: Moiobamba,-4.7279,-62.1321,based on other specimen from same locality name,264,89,83,377,321,214,107,260,264,269,260,2532,340,87,38,875,311,440,875
+25,Anolis,ortonii,no,MVZ_174831,Peru,Amazonas,Amazonia,Quebrada Caterpiza Rio Santiago,-3.9167,-77.7167,VertNet,263,97,85,473,322,209,113,263,257,268,256,2437,245,164,12,709,515,604,547
+26,Anolis,ortonii,no,OMNH_40420,Ecuador,Sucumbios,Amazonia,Reserva Faunistica Cuyabeno (RPF-Cuyabeno) Neotropic Turis,0.0133,-75.9688,VertNet,252,95,87,499,309,200,109,246,256,257,245,3168,368,168,22,994,559,616,976
+27,Anolis,ortonii,no,SMNS_7139,Peru,Huanuco,Amazonia,Pachitea  Fundo Flor Yuyapichis  Panguana (estacion biologica),-9.6167,-74.9333,VertNet,262,114,82,425,329,191,138,265,255,266,255,1912,292,61,42,719,228,588,228
+28,Anolis,ortonii,no,UFMT-R_4191,Brazil,Mato Grosso,Amazonia,Aripuana Brejo do mirante da cachoeira das Andorinhas.,-9.8603,-60.2631,Specieslink CRIA,246,122,67,489,334,154,180,245,242,252,240,1949,341,6,73,943,44,243,89
+29,Anolis,ortonii,no,UFMT-R_7067,Brazil,Mato Grosso,Amazonia,Apiacas Cachoeira da fumaca; UHE foz do Apiacas,-9.2474,-57.0888,Specieslink CRIA,260,129,66,545,355,162,193,257,255,266,254,2201,364,9,69,988,46,315,129
+30,Anolis,ortonii,no,UFMT-R_7068,Brazil,Mato Grosso,Amazonia,Apiacas UHE Foz do Apiacas,-9.5297,-57.0547,Specieslink CRIA,257,131,67,529,352,159,193,255,251,263,251,2174,370,7,67,960,51,521,141
+31,Anolis,ortonii,no,UFMT-R_7080,Brazil,Mato Grosso,Amazonia,Apiacas Igarape do Bruno; estrada margem esquerda; UHE Foz do Apiacas,-9.4269,-57.1265,Specieslink CRIA,257,130,67,508,353,161,192,255,253,263,251,2143,368,6,66,944,53,349,164
+32,Anolis,ortonii,no,UFMT-R_7801,Brazil,Mato Grosso,Amazonia,Colniza Porto Kappa; Distrito de Panelas; Estacao Ecologica do Rio Roosevelt,-9.0726,-60.3467,Specieslink CRIA,254,116,67,473,338,166,172,253,250,260,248,2161,362,9,69,1008,58,293,118
+33,Anolis,ortonii,no,UFMT-R_7948,Brazil,Mato Grosso,Amazonia,Paranaita P3; modulo 2; Castanheiro,-9.4102,-56.5574,Specieslink CRIA,257,133,67,536,355,159,196,254,252,263,251,2305,389,10,69,1051,49,323,108
+34,Anolis,ortonii,no,UFMT-R_9701,Brazil,Para,Amazonia,Terra Santa modulo 2; Parcela 2,-2.1042,-56.4869,Specieslink CRIA,274,86,80,616,336,229,107,268,283,283,268,2358,399,43,60,1054,168,168,1003
+35,Anolis,ortonii,no,USNM_234656.6353782,Ecuador,Pastaza,Amazonia,Palanda east of Sarayacu on Rio Bobonaza,-1.7333,-77.4833,VertNet,241,98,88,446,297,186,111,238,243,245,234,3577,370,215,16,1063,717,900,925
+36,Anolis,ortonii,no,USNM_234664.635379,Ecuador,Pastaza,Amazonia,Montalvo 5 km S of Don Tomas,-2.0667,-76.95,VertNet,250,99,86,508,309,195,114,246,254,255,243,3141,326,210,15,909,638,780,835
+37,Anolis,ortonii,no,USNM_234726.6353852,Ecuador,Napo,Amazonia,Rio Guataracu mouth of tributary of Rio Suno,-0.7667,-77.25,VertNet,243,99,88,420,301,189,112,239,245,248,237,3168,349,163,21,1009,634,833,949
+38,Anolis,ortonii,no,USNM_234727.6353853,Ecuador,Napo,Amazonia,Rio Cotopino upper Rio Napo,-0.7167,-77.3833,VertNet,240,100,89,423,298,186,112,236,242,245,234,3269,364,176,22,1051,639,830,1005
+39,Anolis,ortonii,no,USNM_234730.6353856,Ecuador,Napo,Amazonia,Rio PAYAMINO,-0.4908,-77.29,VertNet,245,98,87,374,302,190,112,242,248,249,239,3212,345,178,19,1005,680,823,764
+40,Anolis,ortonii,no,USNM_234741.6353867,Ecuador,Pastaza,Amazonia,Rio PINDO,-2.1167,-76.05,VertNet,257,98,86,512,314,201,113,249,261,261,249,2933,319,192,16,877,591,620,827
+41,Anolis,ortonii,no,USNM_234744.635387,Ecuador,Pastaza,Amazonia,ALTO CURARAY REGION OF,-1.2333,-77.4167,VertNet,239,99,87,425,297,184,113,235,241,243,232,3540,404,184,23,1144,650,907,939
+42,Anolis,ortonii,no,USNM_234748.6353874,Ecuador,Pastaza,Amazonia,Rio Rutuno tributary of Rio Bobonaza,-1.9167,-77.2333,VertNet,245,99,87,491,303,190,113,241,248,250,238,3326,342,209,15,967,669,837,876
+43,Anolis,ortonii,no,USNM_234749.6353875,Ecuador,Pastaza,Amazonia,Rio VILLANO,-1.5,-77.3333,VertNet,246,98,88,448,303,192,111,242,249,251,239,3436,368,201,19,1056,673,880,883
+44,Anolis,ortonii,no,USNM_234751.6353877,Ecuador,Pastaza,Amazonia,Rio Conambo,-1.8667,-76.7833,VertNet,252,99,87,496,310,197,113,248,256,257,245,3159,338,209,16,933,632,783,914
+45,Anolis,ortonii,no,USNM_247466.6101327,Peru,Madre de Dios,Amazonia,Puerto Maldonado ca. 30 km (airline) SSW of Tambopata Reserve Explorer's Inn,-12.83,-69.28,VertNet,254,109,73,1066,324,176,148,261,237,263,237,2478,380,72,52,1041,234,781,234
+46,Anolis,ortonii,no,USNM_283931.6148638,Ecuador,Morona-Santiago,Amazonia,SUCUA,-2.4667,-78.1667,VertNet,227,98,83,589,289,171,118,225,232,233,218,2266,242,123,20,709,435,462,622
+47,Anolis,ortonii,no,USNM_298884.6153793,Peru,Madre de Dios,Amazonia,Salvacion NW bank of Rio Alto Madre de Dios Hacienda Erika,-12.9167,-71.2,VertNet,231,111,80,729,298,160,138,234,221,238,220,3419,465,137,40,1323,457,961,464
+48,Anolis,ortonii,no,USNM_303523.615814,Brazil,Para,Amazonia,Altamira ca. 50 km (airline) S of near Cachoeira do Espelho east bank of Rio Xingu,-3.65,-52.38,VertNet,254,95,80,476,315,197,118,250,260,260,249,1947,364,31,69,939,119,152,902
+49,Anolis,ortonii,no,USNM_316711.6172534,Peru,Amazonas,Amazonia,Shaim vicinity of on the Rio Alto Comaina (tributary of the Rio Cenepa),-4.25,-78.37,VertNet,229,106,81,580,299,169,130,228,234,237,221,2577,257,175,12,751,584,585,642
+50,Anolis,ortonii,no,USNM_316714.6172537,Peru,Amazonas,Amazonia,Rio Kayamas vicinity of (tributary of the Rio Cenepa),-4.47,-78.17,VertNet,253,101,86,438,314,197,117,254,248,258,247,2647,278,181,13,765,568,639,591
+51,Anolis,ortonii,no,USNM_321079.6177797,Ecuador,Pastaza,Amazonia,Coca 130 km S of Tiguino (UNOCAL Base Camp),-1.12,-76.95,VertNet,248,98,88,447,305,194,111,244,251,252,241,3209,352,188,19,995,637,833,946
+52,Anolis,ortonii,no,USNM_333024.6193211,Peru,Madre de Dios,Amazonia,Pakitza Reserve Zone Manu National Park ca. 57 km (airline) NW of mouth of Rio Manu on Rio Manu,-11.87,-71.3,VertNet,252,112,78,689,318,175,143,255,242,258,241,2492,333,78,45,954,263,783,276
+53,Anolis,ortonii,no,USNM_538302.6505888,Peru,Cuzco,Amazonia,Cashiriari-2 (Armihuari) ca. 4 km S of the Camisea River,-11.8633,-72.7789,VertNet,252,123,80,548,326,173,153,252,244,256,244,1870,252,54,46,717,187,605,187
+54,Anolis,ortonii,no,USNM_567973.6558766,Peru,Amazonas,Amazonia,Galilea on the Rio Santiago,-4.0147,-77.7786,VertNet,262,97,85,444,322,208,114,263,257,267,255,2472,249,167,12,715,526,612,556
+55,Anolis,ortonii,no,CHUNB11122,Brazil,Bahia,Atlantic Forest,Praia do Forte,-12.57,-38,Ribeiro-Junior 2015 Zootaxa,248,74,66,1250,304,193,111,243,248,261,230,1733,307,73,49,756,248,331,497
+56,Anolis,ortonii,no,LG1783,Brazil,Bahia,Atlantic Forest,Jussari: Serra do Teimoso,-15.1547,-39.5233,Miguel T. Rodrigues,233,75,65,1191,289,174,115,243,229,247,216,1153,127,58,26,374,199,351,239
+57,Anolis,ortonii,no,MTR18000,Brazil,Sergipe,Atlantic Forest,Itabaiana,-10.6748,-37.4271,Google Earth,241,76,66,1417,298,183,115,227,251,256,220,1010,168,32,58,471,105,145,408
+58,Anolis,ortonii,no,MZUSP39578,Brazil,Espirito Santo,Atlantic Forest,Linhares,-19.4,-40.07,Ribeiro-Junior 2015 Zootaxa,242,91,61,1683,316,168,148,257,221,263,220,1202,189,36,52,535,139,360,143
+59,Anolis,ortonii,no,MZUSP40729,Brazil,Bahia,Atlantic Forest,Salvador Parque Jovelino Silva,-13,-38.47,Ribeiro-Junior 2015 Zootaxa,251,66,66,1109,304,204,100,246,251,265,235,1733,273,74,45,717,273,324,512
+60,Anolis,ortonii,no,MZUSP40731,Brazil,Pernambuco,Atlantic Forest,Recife Parque Dois Irmaos,-8,-34.95,Ribeiro-Junior 2015 Zootaxa,252,68,70,1021,300,203,97,242,258,263,237,1686,269,30,64,794,116,341,678
+61,Anolis,ortonii,no,MZUSP49376,Brazil,Sergipe,Atlantic Forest,Santo Amaro das Brotas Arauaris,-10.71,-37.02,Ribeiro-Junior 2015 Zootaxa,254,68,66,1195,305,203,102,252,263,267,237,1443,274,35,64,685,116,211,528
+62,Anolis,ortonii,no,MZUSP56720,Brazil,Bahia,Atlantic Forest,Ilheus Fazenda Sao Pedro Rio do Braco,-14.8,-39.05,Ribeiro-Junior 2015 Zootaxa,247,63,61,936,296,194,102,254,247,258,233,1916,201,128,14,560,395,510,507
+63,Anolis,ortonii,no,MZUSP60902,Brazil,Paraiba,Atlantic Forest,Fazenda Pacatuba 10 km NE Sape,-7.05,-35.17,Ribeiro-Junior 2015 Zootaxa,253,89,72,1198,314,191,123,249,258,265,235,1178,184,21,62,530,73,276,434
+64,Anolis,ortonii,no,MZUSP65988,Brazil,Paraiba,Atlantic Forest,Joao Pessoa,-7.2,-34.9,Ribeiro-Junior 2015 Zootaxa,252,82,70,1008,307,190,117,241,258,262,236,1802,293,36,60,801,134,394,702
+65,Anolis,ortonii,no,MZUSP89858,Brazil,Bahia,Atlantic Forest,Una,-15.17,-39.12,Ribeiro-Junior 2015 Zootaxa,240,69,63,1090,292,183,109,245,233,253,224,1520,151,95,12,416,329,409,364
+66,Anolis,ortonii,no,MZUSP92167,Brazil,Bahia,Atlantic Forest,Salvador,-13,-38.5,Ribeiro-Junior 2015 Zootaxa,251,65,65,1133,304,204,100,245,251,264,235,1811,292,77,46,756,283,333,537
+67,Anolis,ortonii,yes,BM028,Brazil,Para,Amazonia,Vitoria do Xingu: UHE Belo Monte,-3.3228,-51.8448,Miguel T. Rodrigues,256,93,80,457,317,201,116,252,262,263,251,2101,398,31,70,1004,109,152,942
+68,Anolis,ortonii,yes,BM565,Brazil,Para,Amazonia,Anapu,-3.4051,-51.4222,Google Earth,260,93,80,444,320,204,116,256,265,267,256,2197,358,34,70,1028,115,149,969
+69,Anolis,ortonii,yes,H2026,Brazil,RO,Amazonia,Porto_Velho_Mutum,-9.5981,-65.0478,this_study,264,106,75,606,334,193,141,261,259,271,256,1783,276,22,59,757,90,264,150
+70,Anolis,ortonii,yes,H2594,Brazil,RO,Amazonia,Porto_Velho_Abuna,-9.6341,-65.4399,this_study,263,106,75,575,334,193,141,262,259,271,256,1626,269,9,64,713,65,411,114
+71,Anolis,ortonii,yes,LSUMZH12993,Ecuador,Sucumbios,Amazonia,Reserva_Faunistica_Cuyabeno_Neotropic_Turis,-0.2172,-75.8069,this_study,254,95,86,527,310,200,110,247,258,259,245,2931,338,155,23,944,504,560,910
+72,Anolis,ortonii,yes,LSUMZH13904,Brazil,Acre,Amazonia,Porto Walter: Rio Jurua,-8.2509,-72.7677,LSU Museum of Natural Science,255,103,75,584,319,183,136,258,247,261,246,2149,308,37,49,822,174,675,247
+73,Anolis,ortonii,yes,LSUMZH14099,Brazil,Amazonas,Amazonia,Labrea: Rio Ituxi Madeirera Scheffer,-8.3464,-65.7161,LSU Museum of Natural Science,263,105,78,443,328,194,134,263,258,267,256,2130,320,22,63,917,98,508,123
+74,Anolis,ortonii,yes,LSUMZH14163,Brazil,Para,Amazonia,Alter de Chao,-2.5027,-54.9718,LSU Museum of Natural Science,261,93,78,563,323,204,119,257,267,269,255,1977,340,33,66,928,122,145,482
+75,Anolis,ortonii,yes,LSUMZH14304,Brazil,Para,Amazonia,Belterra: Agropecuaria Treviso LTDA,-3.1456,-54.8396,LSU Museum of Natural Science,256,96,79,537,319,198,121,252,262,264,251,1945,339,44,64,890,150,164,796
+76,Anolis,ortonii,yes,MPEG25699,Brazil,PA,Amazonia,Portel_FLONA_Caxiuana_Plote_PPBIO,-1.9936,-51.6153,this_study,268,97,86,440,329,217,112,264,273,273,262,2242,334,56,57,972,186,195,862
+77,Anolis,ortonii,yes,MPEG27688,Brazil,PA,Amazonia,Belem_Campus_de_Pesquisa_do_MPEG,-1.451,-48.4453,this_study,268,94,88,309,323,217,106,265,271,271,263,2504,375,88,50,1047,295,295,1044
+78,Anolis,ortonii,yes,MPEG29325,Brazil,Amazonas,Amazonia,Urucara: Marajatuba,-2.3867,-57.6395,Museu Paraense Emilio Goeldi,272,85,80,519,331,226,105,267,279,279,266,2038,330,50,55,877,197,197,870
+79,Anolis,ortonii,yes,MPEG29465,Brazil,Para,Amazonia,Itaituba: Sao Luis (right bank),-4.4725,-56.2461,Museu Paraense Emilio Goeldi,274,97,79,511,337,215,122,269,277,280,267,2112,302,70,48,861,232,276,846
+80,Anolis,ortonii,yes,MTR18907,Brazil,Amazonas,Amazonia,Beruri: Itapuru Lago Chaviana,-4.3072,-61.8155,Miguel T. Rodrigues,267,88,83,370,323,218,105,264,267,272,262,2503,325,90,37,857,319,409,854
+81,Anolis,ortonii,yes,MTR19241,Brazil,AM,Amazonia,Moiobamba_Rio_Purus,-4.7279,-62.1321,this_study,264,89,83,377,321,214,107,260,264,269,260,2532,340,87,38,875,311,440,875
+82,Anolis,ortonii,yes,MTR28130,Brazil,Acre,Amazonia,Serra do Divisor,-7.4388,-73.6582,Ivan Prates,258,106,77,582,323,186,137,259,250,263,249,2474,322,83,37,858,282,745,375
+83,Anolis,ortonii,yes,MTR977671,Brazil,Mato Grosso,Amazonia,Aripuana: Rio Aripuana,-10.1758,-59.45,Miguel T. Rodrigues,246,125,67,532,336,150,186,245,241,252,239,1942,327,8,73,948,46,235,94
+84,Anolis,ortonii,yes,UFAC0085,Brazil,Acre,Amazonia,Fazenda Experimental Catuaba,-10.0679,-67.6063,based on other specimen from same locality name,260,107,74,744,327,183,144,262,254,266,248,1920,282,35,56,816,118,465,182
+85,Anolis,ortonii,yes,MTR09910,Brazil,Bahia,Atlantic Forest,Ilheus,-14.7972,-39.0344,Miguel T. Rodrigues,247,63,61,936,296,194,102,254,247,258,233,1916,201,128,14,560,395,510,507
+86,Anolis,ortonii,yes,MTR12160,Brazil,Espirito Santo,Atlantic Forest,Linhares: Reserva Cia Vale do Rio Doce (site B),-19.1517,-40.0644,Miguel T. Rodrigues,239,94,64,1597,312,167,145,253,220,260,218,1210,183,39,49,524,146,365,147
+87,Anolis,ortonii,yes,MTR12291,Brazil,Espirito Santo,Atlantic Forest,Linhares: Floresta Nacional de Goytacazes,-19.4483,-40.0804,Google Earth,242,91,61,1699,315,168,147,257,221,264,220,1202,189,36,51,535,139,360,144
+88,Anolis,ortonii,yes,MTR34278,Brazil,Bahia,Atlantic Forest,E. E. Gregorio Bondar CEPLAN Barrolandia,-16.0905,-39.2183,Roberta Damasceno,238,76,66,1236,293,178,115,243,231,252,220,1316,154,78,18,386,285,289,326
+89,Anolis,ortonii,yes,MTR34436,Brazil,BA,Atlantic Forest,CEPLAC_Barrolandia,-16.0944,-39.2748,this_study,238,76,66,1256,292,178,114,244,230,252,219,1254,156,71,20,386,270,286,293
+90,Anolis,punctatus,no,46T2,Brazil,Amazonas,Amazonia,Presidente Figueiredo: UHE Balbina,-1.7424,-59.6162,Google Earth,273,87,82,438,330,225,105,269,279,279,269,2529,407,96,45,1053,342,342,875
+91,Anolis,punctatus,no,CM_157567,Peru,Purus,Amazonia,Puesto de control y vigilancia Cocama,-10.39,-71.16,VertNet,253,114,76,665,322,172,150,258,243,259,243,1895,254,35,54,745,127,660,160
+92,Anolis,punctatus,no,H0877,Brazil,Rondonia,Amazonia,Porto Velho: Mutum (right bank),-9.6162,-65.0456,Miguel T. Rodrigues,263,106,75,572,334,193,141,261,259,270,256,1780,276,22,59,756,90,264,150
+93,Anolis,punctatus,no,KU_105325,Ecuador,Sucumbios,Amazonia,Dureno,0.05,-76.7,VertNet,248,97,87,429,307,196,111,244,250,253,242,3533,381,223,18,1093,695,867,1015
+94,Anolis,punctatus,no,KU_112161,Ecuador,Sucumbios,Amazonia,Santa Cecilia,0.05,-76.9667,VertNet,245,98,87,395,303,191,112,241,247,250,240,3463,381,210,18,1082,689,852,1004
+95,Anolis,punctatus,no,KU_204979,Peru,Madre de Dios,Amazonia,Cuzco Amazonico 15 km E Puerto Maldonado,-12.5833,-69.0833,VertNet,255,112,72,1068,328,174,154,262,239,265,239,2158,333,53,55,914,177,693,177
+96,Anolis,punctatus,no,LSUMZH16491,Brazil,Amazonas,Amazonia,,-3.515,-59.9033,LSU Museum of Natural Science,273,85,82,433,329,226,103,268,278,279,268,2144,280,66,43,806,237,268,806
+97,Anolis,punctatus,no,MCZ_R-100044,Peru,Huanuco,Amazonia,Tingo Maria Peru,-9.3034,-76.0022,VertNet,244,122,91,245,309,176,133,244,241,246,241,3027,417,111,39,1120,368,926,368
+98,Anolis,punctatus,no,MCZ_R-156841,Ecuador,Pastaza,Amazonia,Ecuador: Hosteria Turingia Puyo [VERBATIM ELEVATION:950m],-1.4667,-77.9833,VertNet,212,95,85,460,268,157,111,210,213,215,204,4441,456,296,14,1307,941,1078,1147
+99,Anolis,punctatus,no,MCZ_R-164431,Ecuador,Orellana,Amazonia,Ecuador: Napo: Coca (Francisco de Orellana) [VERBATIM ELEVATION:250m],-0.4667,-76.9667,VertNet,248,98,88,413,305,194,111,244,245,252,242,3319,374,186,17,995,678,888,861
+100,Anolis,punctatus,no,MCZ_R-57387,Peru,San Martin,Amazonia,Pachisa R. Huayabamba region,-7.2667,-76.7667,VertNet,263,121,86,525,329,189,140,263,255,269,255,1647,200,75,30,540,241,432,241
+101,Anolis,punctatus,no,MCZ_R-57388,Peru,Amazonas,Amazonia,Mouth of Rio Cenipa Maranon valley,-4.65,-78.1333,VertNet,254,100,86,414,315,199,116,254,250,259,248,2730,286,184,13,782,582,667,603
+102,Anolis,punctatus,no,MCZ_R-57389,Peru,San Martin,Amazonia,Achinamisa Huallaga valley,-6.4167,-75.9,VertNet,259,122,85,449,328,186,142,258,252,263,252,2330,299,108,28,763,361,582,423
+103,Anolis,punctatus,no,MCZ_R-65577,Brazil,Para,Amazonia,Brasil: Cochimbo Para,-8.95,-54.9,VertNet,242,140,68,598,350,145,205,239,240,249,235,2443,418,10,71,1112,35,357,1104
+104,Anolis,punctatus,no,MCZ_R-92532,Brazil,Amazonas,Amazonia,Rserva Ducke: Manaus: Amazonas: Brasil,-3.1133,-60.0253,VertNet,274,83,81,446,330,228,102,270,280,281,270,2154,296,56,47,843,210,259,828
+105,Anolis,punctatus,no,MCZ_R-93413,Ecuador,Pastaza,Amazonia,Ecuador: Lower Rio Pucayacu tributary of Rio Bobonanza,-1.9534,-77.0022,VertNet,248,99,87,492,306,193,113,245,252,253,241,3223,338,209,16,941,646,804,860
+106,Anolis,punctatus,no,MHNLS17698,Venezuela,Amazonas,Amazonia,Atures: 12 km South of Puerto Ayacucho,5.3591,-67.6687,Google Earth,279,101,75,1018,357,223,134,268,287,292,265,2388,408,32,66,1140,135,150,1137
+107,Anolis,punctatus,no,MPEG22857,Brazil,Para,Amazonia,Almeirim,-0.94,-53.2376,Museu Paraense Emilio Goeldi,268,89,82,618,329,221,108,262,275,276,260,1929,284,49,51,792,160,203,636
+108,Anolis,punctatus,no,MPEG26101,Brazil,Para,Amazonia,Portel: FLONA Caxiuana,-1.9833,-51.6333,Museu Paraense Emilio Goeldi,267,97,86,441,328,216,112,264,272,273,261,2247,335,56,56,974,188,196,859
+109,Anolis,punctatus,no,MPEG26911,Brazil,Amazonas,Amazonia,Coari,-4.8955,-65.1892,Museu Paraense Emilio Goeldi,264,91,82,294,320,210,110,264,261,267,260,2643,337,89,39,939,307,576,446
+110,Anolis,punctatus,no,MPEG29591,Brazil,Para,Amazonia,Rio Preto Flona Charapucu Afua: Ilha do Marajo,-0.586,-50.4751,Museu Paraense Emilio Goeldi,270,84,84,492,326,226,100,263,276,276,263,3105,480,74,54,1315,255,339,1315
+111,Anolis,punctatus,no,MTR25604,Brazil,Rondonia,Amazonia,P. N. Serra dos Pacaas Novos,-10.7864,-63.6276,Ivan Prates,244,118,73,531,325,164,161,243,240,251,237,2099,330,22,63,947,95,304,147
+112,Anolis,punctatus,no,MTR26005,Brazil,Rondonia,Amazonia,P. N. Serra dos Pacaas Novos: Base do Jaci,-10.5273,-63.9735,Ivan Prates,258,113,73,553,334,181,153,257,253,265,250,2006,311,23,60,888,91,306,159
+113,Anolis,punctatus,no,MTR28515,Brazil,Acre,Amazonia,Serra do Divisor,-7.4279,-73.6618,Ivan Prates,257,106,76,606,323,185,138,259,248,262,248,2463,320,83,37,853,283,740,374
+114,Anolis,punctatus,no,MTR35938,Brazil,Amazonas,Amazonia,Rio Ica,-2.8862,-68.372,Miguel T. Rodrigues,255,91,86,330,308,203,105,255,253,258,250,3370,334,206,15,968,654,729,836
+115,Anolis,punctatus,no,MTR36414,Brazil,Amazonas,Amazonia,Rio Ica,-3.032,-68.884,Miguel T. Rodrigues,256,91,87,338,309,205,104,257,255,260,251,3428,356,213,16,1017,660,889,802
+116,Anolis,punctatus,no,MTR36892,Brazil,Amazonas,Amazonia,Alvaraes,-3.1989,-64.8224,Miguel T. Rodrigues,268,90,86,270,322,218,104,266,269,271,264,2669,311,126,27,886,419,482,767
+117,Anolis,punctatus,no,MTR967985,Brazil,Mato Grosso,Amazonia,Colniza: Rio Aripuana,-9.1793,-60.6306,Google Earth,253,117,68,446,337,166,171,252,249,258,247,2123,359,7,70,999,51,276,108
+118,Anolis,punctatus,no,MTR976158,Brazil,Mato Grosso,Amazonia,Claudia,-11.585,-55.1356,Miguel T. Rodrigues,248,144,69,804,349,141,208,248,241,257,237,1892,312,1,78,924,13,492,50
+119,Anolis,punctatus,no,MVZ_163059,Peru,Amazonas,Amazonia,vicinity of Huampami (Aguaruna village) Rio Cenepa,-4.4556,-78.1612,VertNet,255,100,85,442,316,199,117,255,249,260,248,2620,277,178,13,758,559,633,582
+120,Anolis,punctatus,no,OMNH_37167,Brazil,Amazonas,Amazonia,Rio Ituxi Madeirera Scheffer,-7.3,-64.85,VertNet,264,101,76,350,329,197,132,263,260,268,258,2297,316,39,52,915,156,529,247
+121,Anolis,punctatus,no,ROM_20513,Guyana,Essequibo,Amazonia,Kurupukari road in forest approx 1 km east of river,4.6639,-58.675,VertNet,270,87,79,596,328,218,110,268,278,278,262,2301,388,68,50,1010,272,272,449
+122,Anolis,punctatus,no,ROM_28351,Guyana,District 8,Amazonia,Paramakatoi vicinity on trail to lookout,4.6972,-59.7867,VertNet,232,94,83,442,292,179,113,230,238,238,228,1602,264,51,56,753,186,186,252
+123,Anolis,punctatus,no,SMNS_619,Suriname,,Amazonia,Suriname,3.9194,-56.3461,VertNet,268,89,76,722,335,219,116,264,279,279,260,2594,426,40,54,1129,185,185,664
+124,Anolis,punctatus,no,UFMG-REP_1478,Brazil,Para,Amazonia,Maraba Vila Uniao,-5.3686,-49.1178,Specieslink CRIA,269,98,81,301,332,212,120,266,272,273,265,1832,345,14,78,942,61,82,644
+125,Anolis,punctatus,no,UFMT-R_10077,Brazil,Mato Grosso,Amazonia,Claudia Fazenda Continental; area torre; L2B7,-11.5153,-54.8914,Specieslink CRIA,249,145,69,776,349,141,208,248,241,257,238,1958,321,1,78,950,13,511,50
+126,Anolis,punctatus,no,UFMT-R_4936,Brazil,Mato Grosso,Amazonia,Vale de Sao Domingos UHE Guapore margem esquerda do rio Guapore,-15.0725,-58.5744,Specieslink CRIA,238,133,72,1327,318,134,184,246,222,249,216,1551,280,11,71,717,53,359,79
+127,Anolis,punctatus,no,UFMT-R_5699,Brazil,Mato Grosso,Amazonia,Guaranta do Norte PCH Braco norte IV,-9.6808,-54.9605,Specieslink CRIA,252,144,68,618,361,152,209,245,249,258,245,2393,382,12,69,1071,53,372,1071
+128,Anolis,punctatus,no,UFMT-R_7362,Brazil,Mato Grosso,Amazonia,Juina Ponto 1; corrego priximo a base da Diagem Mineradora,-11.5308,-59.323,Specieslink CRIA,236,130,68,606,325,134,191,236,228,241,226,1918,351,5,76,946,35,443,68
+129,Anolis,punctatus,no,UFMT-R_8164,Brazil,Mato Grosso,Amazonia,Paranaita TPPAR-P4; modulo 6; Rio Paranaita,-9.5819,-56.711,Specieslink CRIA,255,133,67,563,353,157,196,252,250,262,249,2263,379,11,69,1017,49,324,112
+130,Anolis,punctatus,no,UFMT-R_8367,Brazil,Mato Grosso,Amazonia,Cotriguacu Estrada,-9.8647,-58.2806,Specieslink CRIA,252,127,67,565,343,154,189,251,246,258,244,1979,357,5,74,968,47,242,82
+131,Anolis,punctatus,no,UFMT-R_8834,Brazil,Mato Grosso,Amazonia,Claudia Trilha 1; Ponto 6; modulo 2; Fazenda Continental,-11.4462,-55.0494,Specieslink CRIA,251,145,69,773,352,144,208,250,243,259,240,1916,319,1,78,938,13,497,50
+132,Anolis,punctatus,no,UFMT-R_9061,Brazil,Mato Grosso,Amazonia,Cotriguacu P12; Fazenda Sao Nicolau,-9.5141,-58.6786,Specieslink CRIA,251,124,67,488,341,156,185,250,246,257,245,2036,355,7,71,964,53,262,100
+133,Anolis,punctatus,no,UFMT-R_9196,Brazil,Para,Amazonia,Primavera Ponto MVP-P1; Rio Tabocal; Fabrica de Cimentos Votorantim,-0.9403,-47.1164,Specieslink CRIA,262,94,81,482,327,211,116,257,268,269,257,2602,496,14,78,1372,60,115,1372
+134,Anolis,punctatus,no,UFMT-R_9339,Brazil,Mato Grosso,Amazonia,Paranaita modulo 4; Sete Quedas,-9.6647,-56.4767,Specieslink CRIA,254,135,68,591,353,157,196,251,249,261,248,2298,384,9,70,1051,48,326,100
+135,Anolis,punctatus,no,UFMT-R_9415,Brazil,Mato Grosso,Amazonia,Apiacas Margem do corrego Sao Tome;Acampamento;Parque Nacional do Juruena,-9.5436,-57.4492,Specieslink CRIA,254,129,67,547,348,157,191,251,249,260,248,2154,367,8,68,965,53,321,131
+136,Anolis,punctatus,no,USNM_234774.63539,Ecuador,Pastaza,Amazonia,Chichirota,-2.3833,-76.65,VertNet,254,99,86,490,313,199,114,250,258,259,247,2970,314,194,15,862,620,715,792
+137,Anolis,punctatus,no,USNM_234781.6353907,Ecuador,Pastaza,Amazonia,Rio OGLAN CABECERAS DEL Rio CURARAY,-1.3,-77.6333,VertNet,236,98,88,414,292,181,111,233,238,240,229,3840,427,195,21,1237,710,948,1023
+138,Anolis,punctatus,no,USNM_234782.6353908,Ecuador,Pastaza,Amazonia,Rio Bobonaza Cabeceras del,-1.4667,-77.8833,VertNet,211,97,85,447,269,156,113,209,213,216,204,4481,467,280,15,1323,912,1094,1204
+139,Anolis,punctatus,no,USNM_234783.6353909,Ecuador,Pastaza,Amazonia,CANELOS Rio BOBONAZA,-1.5833,-77.75,VertNet,234,97,88,417,290,180,110,232,237,238,228,3923,409,235,17,1189,796,960,1000
+140,Anolis,punctatus,no,USNM_234785.6353911,Ecuador,Napo,Amazonia,Rio Pucuno,-0.7833,-77.4167,VertNet,235,100,88,392,293,180,113,231,237,239,229,3421,396,194,23,1114,639,851,1085
+141,Anolis,punctatus,no,USNM_234786.6353912,Ecuador,Orellana,Amazonia,Loreto region of,-0.6667,-77.3167,VertNet,238,100,88,413,296,183,113,234,240,242,232,3351,368,189,21,1070,659,847,1028
+142,Anolis,punctatus,no,USNM_288884.6132119,Brazil,Para,Amazonia,Itaituba ca. 65-66 km SW of Parque Nacional da Amazonia Rio Tapajos,-4.2833,-55.9833,VertNet,273,97,80,457,336,216,120,270,277,279,267,2153,327,59,52,921,207,246,896
+143,Anolis,punctatus,no,USNM_325158.6181233,Peru,Madre de Dios,Amazonia,Rio Heath Refugio Juliaca Santuario Nacional de las Pampas del Heath,-12.95,-68.88,VertNet,254,109,73,1111,325,177,148,262,237,264,237,2235,348,63,54,950,205,876,205
+144,Anolis,punctatus,no,USNM_538303.6505889,Peru,Cuzco,Amazonia,Cashiriari-3 S of the Camisea River,-11.8825,-72.7778,VertNet,254,121,80,576,327,176,151,254,246,258,246,1856,250,54,46,711,186,601,186
+145,Anolis,punctatus,no,USNM_538304.650589,Peru,Cuzco,Amazonia,San Martin-3 ca. 5 km N of the Camisea River,-11.7856,-72.6992,VertNet,254,121,80,558,327,176,151,253,246,258,246,1889,252,56,46,718,192,509,192
+146,Anolis,punctatus,no,USNM_566364.6554483,Guyana,East Berbice,Amazonia,Kwakwani ca. 18 mi (airline) SW of ca. 2 mi downriver from confluence of Berbice River and Kurudini River Berbice River camp,5.085,-58.2372,VertNet,269,88,78,621,328,216,112,268,277,277,260,2442,371,88,43,1012,330,330,489
+147,Anolis,punctatus,no,ZEE_HERP_5758,Brazil,Acre,Amazonia,Cruzeiro do Sul Parque Nacional da Serra do Divisor,-7.4589,-73.7744,Specieslink CRIA,258,107,76,587,325,186,139,259,250,263,249,2403,313,82,37,829,280,617,367
+148,Anolis,punctatus,no,ZEE_HERP_5759,Brazil,Acre,Amazonia,Cruzeiro do Sul Parque Nacional da Serra do Divisor,-8.5639,-72.8625,Specieslink CRIA,258,105,76,578,322,184,138,259,249,263,249,1882,273,35,50,730,152,588,213
+149,Anolis,punctatus,no,ZEE_HERP_5760,Brazil,Acre,Amazonia,Cruzeiro do Sul Parque Nacional da Serra do Divisor,-8.2808,-73.2536,Specieslink CRIA,258,105,75,606,324,185,139,260,249,263,248,1998,280,46,45,740,187,616,252
+150,Anolis,punctatus,no,ZEE_HERP_8396,Brazil,Acre,Amazonia,Marechal Thaumaturgo Tribo Indigena Kaxinawa; Rio Jordao,-8.9411,-72.7917,Specieslink CRIA,258,107,76,538,323,184,139,259,250,263,250,1617,236,32,53,643,126,504,175
+151,Anolis,punctatus,no,CAS_16073,Brazil,Rio de Janeiro,Atlantic Forest,Trapacheiros Tijuca,-22.9333,-43.2333,VertNet,229,76,55,1959,298,161,137,255,205,255,205,1335,157,57,32,456,184,456,184
+152,Anolis,punctatus,no,CHUNB13522,Brazil,Minas Gerais,Atlantic Forest,Uba,-21.1,-43,Ribeiro-Junior 2015 Zootaxa,218,122,61,2269,309,112,197,237,187,245,187,1312,274,16,78,684,53,536,53
+153,Anolis,punctatus,no,MBML-REPTEIS_2057,Brazil,Espirito Santo,Atlantic Forest,Serra Lagoa Jacumen,-20.1286,-40.3078,Specieslink CRIA,245,82,60,1652,315,180,135,259,224,267,224,1111,185,45,47,477,159,292,159
+154,Anolis,punctatus,no,MCZ_R-65579,Brazil,Paraiba,Atlantic Forest,Brasil: Mamanguape Paraiba,-6.8333,-35.1167,VertNet,256,89,72,1204,317,194,123,252,262,268,238,1294,218,23,64,596,86,298,485
+155,Anolis,punctatus,no,MCZ_R-84335,Brazil,Rio de Janeiro,Atlantic Forest,Brazil: Rio de Janeiro Guanabara,-22.9167,-43.5,VertNet,227,95,58,2059,307,145,162,252,202,255,202,1378,193,44,45,534,147,529,147
+156,Anolis,punctatus,no,MCZ65579,Brazil,Paraiba,Atlantic Forest,Mamanguape,-6.8,-35.2,Ribeiro-Junior 2015 Zootaxa,257,93,72,1230,321,193,128,253,263,270,238,1174,187,19,63,531,74,275,435
+157,Anolis,punctatus,no,MCZ84335,Brazil,Rio de Janeiro,Atlantic Forest,Rio de Janeiro,-22.94,-43.21,Ribeiro-Junior 2015 Zootaxa,221,83,56,2017,294,147,147,246,196,248,196,1427,182,55,38,523,178,511,178
+158,Anolis,punctatus,no,MTR16109,Brazil,Bahia,Atlantic Forest,Camacan: Serra Bonita,-15.4199,-39.5436,Miguel T. Rodrigues,236,78,65,1284,294,174,120,243,223,251,218,1162,141,67,24,370,232,295,244
+159,Anolis,punctatus,no,MTR33102,Brazil,Bahia,Atlantic Forest,Sta Maria Eterna,-16.0554,-39.3622,Roberta Damasceno,239,77,66,1271,294,179,115,245,231,253,220,1218,158,67,23,388,252,292,271
+160,Anolis,punctatus,no,MTR34337,Brazil,Bahia,Atlantic Forest,Fazenda Boa Sorte Itapebi,-15.8904,-39.5293,Roberta Damasceno,232,81,66,1368,290,168,122,239,224,247,211,1079,145,60,27,366,224,265,229
+161,Anolis,punctatus,no,MTR34692,Brazil,Espirito Santo,Atlantic Forest,Rebio Augusto Ruschi Santa Tereza,-19.9171,-40.5525,based on other specimen from same locality name,200,100,64,1616,276,121,155,213,180,220,178,1322,207,41,51,588,150,416,159
+162,Anolis,punctatus,no,MTR35172,Brazil,Bahia,Atlantic Forest,P. E. serra do Conduru,-14.4796,-39.0819,Roberta Damasceno,241,63,64,972,289,192,97,243,237,252,227,1936,206,118,17,560,376,493,532
+163,Anolis,punctatus,no,MZUSP10408,Brazil,Espirito Santo,Atlantic Forest,Mimoso do Sul,-21.1,-41.37,Ribeiro-Junior 2015 Zootaxa,231,105,62,1900,313,146,167,248,207,255,207,1084,195,27,59,504,82,357,82
+164,Anolis,punctatus,no,MZUSP13413,Brazil,Sao Paulo,Atlantic Forest,Praia de Boraceia,-23.76,-45.8,Ribeiro-Junior 2015 Zootaxa,228,75,51,2321,294,149,145,258,198,258,198,2438,316,92,38,900,301,900,301
+165,Anolis,punctatus,no,MZUSP23091,Brazil,Pernambuco,Atlantic Forest,Agua Azul,-7.57,-35.33,Ribeiro-Junior 2015 Zootaxa,247,99,72,1259,317,181,136,234,252,260,228,1114,172,24,58,479,87,253,413
+166,Anolis,punctatus,no,MZUSP2689,Brazil,Espirito Santo,Atlantic Forest,Linhares Refugio Sooretama,-19,-40,Ribeiro-Junior 2015 Zootaxa,243,93,64,1533,315,171,144,255,222,262,222,1201,178,42,47,507,151,358,151
+167,Anolis,punctatus,no,MZUSP36382,Brazil,Rio de Janeiro,Atlantic Forest,Parque Nacional da Tijuca,-22.95,-43.3,Ribeiro-Junior 2015 Zootaxa,190,95,57,2075,269,105,164,216,164,218,164,1696,255,53,49,705,178,648,178
+168,Anolis,punctatus,no,MZUSP36389,Brazil,Rio de Janeiro,Atlantic Forest,Jacarepagua prox. Represa Rio Grande,-22.92,-43.35,Ribeiro-Junior 2015 Zootaxa,231,84,56,2081,305,156,149,259,205,259,205,1209,153,44,37,438,146,438,146
+169,Anolis,punctatus,no,MZUSP36713,Brazil,Espirito Santo,Atlantic Forest,Santa Cruz,-19.98,-40.21,Ribeiro-Junior 2015 Zootaxa,247,84,60,1711,318,179,139,262,228,270,225,1119,184,42,48,486,152,303,155
+170,Anolis,punctatus,no,MZUSP36951,Brazil,Espirito Santo,Atlantic Forest,Rio Itaunas,-18.39,-39.73,Ribeiro-Junior 2015 Zootaxa,240,81,63,1521,304,176,128,252,219,260,219,1361,184,68,34,501,227,355,227
+171,Anolis,punctatus,no,MZUSP39548,Brazil,Espirito Santo,Atlantic Forest,Reserva Florestal Vale do Rio Doce 30 km NNE Linhares,-19.17,-39.87,Ribeiro-Junior 2015 Zootaxa,242,88,62,1618,312,172,140,256,221,263,221,1232,182,45,45,512,165,354,165
+172,Anolis,punctatus,no,MZUSP40607,Brazil,Sao Paulo,Atlantic Forest,Ubatuba Praia da Enseada,-23.43,-45.07,Ribeiro-Junior 2015 Zootaxa,225,94,55,2282,306,136,170,253,196,255,196,2538,339,84,44,984,280,952,280
+173,Anolis,punctatus,no,MZUSP42722,Brazil,Sao Paulo,Atlantic Forest,Amparo,-22.7,-46.72,Ribeiro-Junior 2015 Zootaxa,192,117,64,2258,269,88,181,216,160,216,160,1431,276,32,67,712,119,647,119
+174,Anolis,punctatus,no,MZUSP4373,Brazil,Rio de Janeiro,Atlantic Forest,Angra dos Reis,-23,-44.28,Ribeiro-Junior 2015 Zootaxa,218,104,59,2169,301,127,174,244,190,246,190,1496,239,38,56,666,127,614,127
+175,Anolis,punctatus,no,MZUSP49360,Brazil,Sergipe,Atlantic Forest,Santo Amaro das Brotas Arauaris,-10.71,-37.02,Ribeiro-Junior 2015 Zootaxa,254,68,66,1195,305,203,102,252,263,267,237,1443,274,35,64,685,116,211,528
+176,Anolis,punctatus,no,MZUSP55568,Brazil,Alagoas,Atlantic Forest,Sao Miguel dos Campos,-9.78,-36.08,Ribeiro-Junior 2015 Zootaxa,251,72,66,1274,307,198,109,248,257,265,233,1421,239,27,63,665,107,240,545
+177,Anolis,punctatus,no,MZUSP570,Brazil,Bahia,Atlantic Forest,Ilheus,-14.8,-39.05,Ribeiro-Junior 2015 Zootaxa,247,63,61,936,296,194,102,254,247,258,233,1916,201,128,14,560,395,510,507
+178,Anolis,punctatus,no,MZUSP65674,Brazil,Pernambuco,Atlantic Forest,Estacao Ecologica de Saltinho,-8.73,-35.17,Ribeiro-Junior 2015 Zootaxa,240,60,68,897,282,195,87,232,243,250,227,1884,294,40,58,852,150,385,529
+179,Anolis,punctatus,no,MZUSP66150,Brazil,Bahia,Atlantic Forest,Reserva Biologica de Pau Brasil 15 km NW Porto Seguro,-16.37,-39.17,Ribeiro-Junior 2015 Zootaxa,239,77,66,1290,295,179,116,223,254,254,220,1474,156,87,18,425,297,297,381
+180,Anolis,punctatus,no,MZUSP8761,Brazil,Pernambuco,Atlantic Forest,Recife Parque Zoobotanico,-8,-34.95,Ribeiro-Junior 2015 Zootaxa,252,68,70,1021,300,203,97,242,258,263,237,1686,269,30,64,794,116,341,678
+181,Anolis,punctatus,no,MZUSP87750,Brazil,Bahia,Atlantic Forest,Monte Pascoal,-16.75,-39.53,Ribeiro-Junior 2015 Zootaxa,245,86,67,1432,307,179,128,250,223,261,223,1280,144,68,18,391,253,343,253
+182,Anolis,punctatus,no,MZUSP88116,Brazil,Sergipe,Atlantic Forest,Areia Branca,-10.77,-37.32,Ribeiro-Junior 2015 Zootaxa,243,71,65,1291,296,188,108,230,252,257,224,1300,222,40,60,606,126,194,516
+183,Anolis,punctatus,no,MZUSP89849,Brazil,Bahia,Atlantic Forest,Una,-15.17,-39.12,Ribeiro-Junior 2015 Zootaxa,240,69,63,1090,292,183,109,245,233,253,224,1520,151,95,12,416,329,409,364
+184,Anolis,punctatus,no,MZUSP95077,Brazil,Minas Gerais,Atlantic Forest,Caratinga RPPN Feliciano Miguel Abdala,-19.73,-41.82,Ribeiro-Junior 2015 Zootaxa,217,124,65,1956,302,113,189,234,192,239,189,1217,228,19,73,642,63,476,78
+185,Anolis,punctatus,no,MZUSP95085,Brazil,Espirito Santo,Atlantic Forest,Marechal Floriano,-20.42,-40.67,Ribeiro-Junior 2015 Zootaxa,213,96,61,1719,290,135,155,227,192,235,190,1242,197,41,49,545,143,375,160
+186,Anolis,punctatus,no,MZUSP96531,Brazil,Alagoas,Atlantic Forest,Campo Alegre,-9.75,-36.3,Ribeiro-Junior 2015 Zootaxa,239,80,67,1411,301,182,119,226,251,254,219,1172,199,25,65,569,93,171,481
+187,Anolis,punctatus,no,PEU112,Brazil,Bahia,Atlantic Forest,Jaguaripe,-13.1569,-39.0402,Roberta Damasceno,238,66,64,1253,290,188,102,224,251,252,220,1812,221,95,28,631,343,375,559
+188,Anolis,punctatus,yes,CTMZ03457,Brazil,Rondonia,Amazonia,Montenegro,-10.2987,-63.2375,Google Earth,254,116,72,502,335,174,161,253,251,261,247,2356,377,21,61,1028,84,346,191
+189,Anolis,punctatus,yes,GN71 TM372,Brazil,Mato Grosso,Amazonia,Guaranta do Norte,-9.7307,-54.6064,Google Earth,242,145,68,636,353,142,211,236,239,249,236,2405,373,10,69,1082,45,379,1082
+190,Anolis,punctatus,yes,H1907,Brazil,RO,Amazonia,Porto_Velho_Caicara,-9.4459,-64.8247,this_study,262,106,75,559,332,192,140,260,259,269,256,1889,273,29,57,781,102,281,167
+191,Anolis,punctatus,yes,H1911,Brazil,Rondonia,Amazonia,Porto Velho: Caicara (right bank),-9.4358,-64.8203,Miguel T. Rodrigues,263,106,76,557,332,193,139,260,260,270,256,1889,273,29,58,782,101,281,166
+192,Anolis,punctatus,yes,H2546,Brazil,RO,Amazonia,Porto_Velho_Abuna,-9.5979,-65.3576,this_study,264,106,75,560,334,193,141,262,259,270,257,1667,275,12,63,728,73,413,124
+193,Anolis,punctatus,yes,LSUMZH12577,Ecuador,Sucumbios,Amazonia,Reserva_Faunistica_Cuyabeno_Neotropic_Turis,-0.2172,-75.8069,this_study,254,95,86,527,310,200,110,247,258,259,245,2931,338,155,23,944,504,560,910
+194,Anolis,punctatus,yes,LSUMZH12751,Ecuador,Sucumbios,Amazonia,Reserva_Faunistica_Cuyabeno_Neotropic_Turis,-0.2172,-75.8069,this_study,254,95,86,527,310,200,110,247,258,259,245,2931,338,155,23,944,504,560,910
+195,Anolis,punctatus,yes,LSUMZH13910,Brazil,AC,Amazonia,Porto_Walter_Rio_Jurua,-8.2509,-72.7677,this_study,255,103,75,584,319,183,136,258,247,261,246,2149,308,37,49,822,174,675,247
+196,Anolis,punctatus,yes,LSUMZH14100,Brazil,AM,Amazonia,Labrea_Rio_Ituxi_Madeirera_Scheffer,-8.3464,-65.7161,this_study,263,105,78,443,328,194,134,263,258,267,256,2130,320,22,63,917,98,508,123
+197,Anolis,punctatus,yes,LSUMZH14336,Brazil,Para,Amazonia,Belterra: Agropecuaria Treviso LTDA,-3.1354,-54.8416,LSU Museum of Natural Science,254,96,79,523,317,196,121,251,260,261,249,1954,342,45,64,895,152,165,795
+198,Anolis,punctatus,yes,LSUMZH15476,Brazil,RO,Amazonia,Nova_Mamore_Parque_Estadual_Guajara_Mirim,-10.3167,-64.55,this_study,262,109,74,587,336,190,146,261,257,269,255,1815,280,20,60,787,79,269,150
+199,Anolis,punctatus,yes,MPEG20846,Brazil,PA,Amazonia,Juruti,-2.6096,-56.1842,this_study,267,90,81,569,330,219,111,261,274,275,261,2207,331,54,58,973,183,224,915
+200,Anolis,punctatus,yes,MPEG21348,Brazil,Rondonia,Amazonia,Guajara Mirim: PN Serra da Cutia,-11.6996,-64.3915,Google Earth,257,118,72,621,339,177,162,258,251,265,249,1593,255,8,65,724,52,364,115
+201,Anolis,punctatus,yes,MPEG22415,Brazil,Para,Amazonia,Santa Barbara do Para: PE de Gunma,-1.2169,-48.2948,Museu Paraense Emilio Goeldi,268,88,88,332,322,222,100,265,272,272,263,2333,383,55,59,1074,205,252,1021
+202,Anolis,punctatus,yes,MPEG24758,Brazil,PA,Amazonia,Oriximina_Porto_Trombetas_Plato_Bacaba,-1.7731,-56.3706,this_study,266,90,81,611,329,219,110,261,275,275,259,2420,408,60,57,1064,213,213,969
+203,Anolis,punctatus,yes,MPEG26102,Brazil,PA,Amazonia,Portel_FLONA_Caxiuana_Plote_PPBIO,-1.9969,-51.6418,this_study,268,97,85,439,329,216,113,264,273,273,262,2250,336,56,56,978,188,196,862
+204,Anolis,punctatus,yes,MPEG28489,Brazil,PA,Amazonia,Juruti,-2.5475,-56.2256,this_study,267,90,81,557,330,219,111,261,274,274,261,2223,338,52,58,982,179,224,919
+205,Anolis,punctatus,yes,MPEG29314,Brazil,Amazonas,Amazonia,Itacoatiara: Lindoia,-2.9096,-59.0495,Google Earth,271,86,81,429,328,223,105,268,275,277,267,2241,312,86,42,849,276,301,841
+206,Anolis,punctatus,yes,MPEG29943,Brazil,Para,Amazonia,Ruropolis,-4.1144,-55.6771,Museu Paraense Emilio Goeldi,273,96,80,488,336,216,120,268,275,279,266,1984,298,67,51,839,209,281,834
+207,Anolis,punctatus,yes,MPEG29983,Brazil,Para,Amazonia,Almeirim: Monte Dourado,-0.6287,-52.739,Museu Paraense Emilio Goeldi,265,89,82,582,327,219,108,261,273,273,258,2258,324,52,51,928,184,214,772
+208,Anolis,punctatus,yes,MTR18550,Brazil,AM,Amazonia,Beruri_Lago_Chaviana_Itapuru_margem_direita_Rio_Purus,-4.3074,-61.8135,this_study,267,88,83,370,323,218,105,264,267,272,262,2503,325,90,37,857,319,409,854
+209,Anolis,punctatus,yes,MTR20798,Brazil,Roraima,Amazonia,Pacaraima,4.4621,-61.1451,Miguel T. Rodrigues,222,114,87,375,290,160,130,218,221,226,216,1830,277,40,51,792,195,489,769
+210,Anolis,punctatus,yes,MTR21474,Brazil,Amazonas,Amazonia,Manaus,-2.9979,-59.9494,Google Earth,271,84,81,476,327,224,103,267,277,278,266,2182,288,71,43,820,244,301,801
+211,Anolis,punctatus,yes,MTR25584,Brazil,RO,Amazonia,Parque_Nacional_Serra_dos_Pacaas_Novos,-10.7868,-63.6281,this_study,244,118,73,531,325,164,161,243,240,251,237,2099,330,22,63,947,95,304,147
+212,Anolis,punctatus,yes,MTR28048,Brazil,AC,Amazonia,Parque_Nacional_da_Serra_do_Divisor,-7.4424,-73.6575,this_study,258,106,77,565,324,187,137,260,251,264,249,2480,323,83,37,861,282,748,375
+213,Anolis,punctatus,yes,MTR28401,Brazil,AC,Amazonia,Parque_Nacional_da_Serra_do_Divisor,-7.5016,-73.7214,this_study,258,107,76,606,325,186,139,260,249,263,249,2423,317,81,37,840,277,622,365
+214,Anolis,punctatus,yes,MTR28593,Brazil,AC,Amazonia,Fazenda_Experimental_Catuaba,-10.0679,-67.6063,this_study,260,107,74,744,327,183,144,262,254,266,248,1920,282,35,56,816,118,465,182
+215,Anolis,punctatus,yes,MTR976723,Brazil,Mato Grosso,Amazonia,Gaucha do Norte,-13.1833,-53.2564,Miguel T. Rodrigues,246,143,70,1065,338,135,203,250,230,254,229,1758,299,3,78,880,23,431,44
+216,Anolis,punctatus,yes,MTR978312,Brazil,Mato Grosso,Amazonia,Vila Rica,-9.9,-51.2,Miguel T. Rodrigues,263,129,74,520,348,175,173,265,256,268,255,1821,307,3,73,850,29,456,55
+217,Anolis,punctatus,yes,PJD409,Brazil,Para,Amazonia,AHE Jatoba,-5.8174,-57.3956,Museu Paraense Emilio Goeldi,268,103,71,386,340,195,145,263,266,272,263,2136,308,34,53,900,154,288,900
+218,Anolis,punctatus,yes,CTMZ03926,Brazil,Alagoas,Atlantic Forest,Campo Alegre,-9.8092,-36.2838,Google Earth,239,79,67,1381,300,183,117,226,252,254,220,1163,198,24,65,561,90,173,471
+219,Anolis,punctatus,yes,IBSPCRIB0361,Brazil,Sao Paulo,Atlantic Forest,Bertioga,-23.7564,-46.0247,Google Earth,226,75,52,2301,293,150,143,256,197,256,197,2803,359,103,39,1037,337,1037,337
+220,Anolis,punctatus,yes,JFT459,Brazil,Espirito Santo,Atlantic Forest,Cariacica: REBIO Duas Bocas,-20.2811,-40.5219,Miguel T. Rodrigues,216,93,62,1679,291,142,149,230,195,237,194,1249,197,44,48,542,154,368,167
+221,Anolis,punctatus,yes,JFT773,Brazil,ES,Atlantic Forest,Recanto_da_Preguica_Santa_Teresa,-19.96,-40.52,this_study,209,98,64,1625,285,132,153,223,189,230,189,1285,204,41,51,573,148,397,157
+222,Anolis,punctatus,yes,LG1299,Brazil,Bahia,Atlantic Forest,Una,-15.2696,-39.0694,Miguel T. Rodrigues,241,70,64,1078,293,184,109,245,233,253,225,1586,156,99,11,435,348,412,387
+223,Anolis,punctatus,yes,MTR05978,Brazil,BA,Atlantic Forest,Serra_do_Teimoso_Jussari,-15.1547,-39.5233,this_study,233,75,65,1191,289,174,115,243,229,247,216,1153,127,58,26,374,199,351,239
+224,Anolis,punctatus,yes,MTR12338,Brazil,ES,Atlantic Forest,FLONA_Goyatacazes_Linhares,-19.4483,-40.0804,this_study,242,91,61,1699,315,168,147,257,221,264,220,1202,189,36,51,535,139,360,144
+225,Anolis,punctatus,yes,MTR12511,Brazil,ES,Atlantic Forest,Reserva_CVRD_Linhares,-19.0564,-39.8942,this_study,242,90,63,1565,314,172,142,255,222,263,222,1230,180,46,45,508,164,357,164
+226,Anolis,punctatus,yes,MTR15267,Brazil,Rio de Janeiro,Atlantic Forest,Cachoeiras de Macacu: PE dos Tres Picos,-22.4354,-42.6216,Google Earth,209,101,59,2127,292,123,169,234,182,236,182,1478,251,28,63,677,102,616,102
+227,Anolis,punctatus,yes,MTR17744,Brazil,Minas Gerais,Atlantic Forest,Marlieria: Parque Estadual do Rio Doce,-19.6411,-42.5333,Google Earth,234,119,63,1946,320,134,186,250,206,256,206,1152,214,12,78,630,44,455,44
+228,Anolis,punctatus,yes,MTR21545,Brazil,Espirito Santo,Atlantic Forest,Sooretama: REBIO Sooretama,-19.0556,-40.1473,Miguel T. Rodrigues,239,96,65,1552,313,166,147,251,220,259,218,1196,182,37,51,523,139,368,139
+229,Anolis,punctatus,yes,MTR34227,Brazil,BA,Atlantic Forest,Fazendo_Boa_sorte_Itapebi,-15.8958,-39.6611,this_study,232,84,66,1426,292,165,127,239,224,247,210,982,139,50,32,352,190,248,193
+230,Anolis,punctatus,yes,MTR34414,Brazil,Bahia,Atlantic Forest,Estacao Veracel Porto Seguro,-16.355,-39.1349,Roberta Damasceno,239,76,66,1228,295,180,115,225,254,254,221,1508,166,84,19,455,293,293,406
+231,Anolis,punctatus,yes,MTRX1468,Brazil,Espirito Santo,Atlantic Forest,Sao Jose do Calcado: UHE Rosal,-20.9031,-41.7192,Google Earth,206,123,65,1968,295,106,189,223,180,229,179,1254,225,25,66,612,79,466,100
+232,Anolis,punctatus,yes,MTRX1478,Brazil,RJ,Atlantic Forest,Rio_de_Janeiro_Floresta_da_Tijuca,-22.9712,-43.2547,this_study,207,92,58,2045,285,127,158,232,182,235,182,1583,220,55,44,623,181,586,181
+233,Anolis,punctatus,yes,MUFAL9635,Brazil,Alagoas,Atlantic Forest,Maceio,-9.5073,-35.7099,Google Earth,244,65,68,1086,292,197,95,233,250,255,228,1725,283,41,64,822,136,257,721

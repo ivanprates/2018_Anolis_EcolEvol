@@ -1,0 +1,19 @@
+new("lfmmClass"
+    , directory = "K2/run4/"
+    , lfmmClass.file = "genotypes_lfmm_imputed_r4_s1.2.lfmmClass"
+    , K = 2L
+    , d = 1L
+    , Niter = 50000L
+    , burn = 25000L
+    , CPU = 12L
+    , seed = 1387160685L
+    , missing.data = FALSE
+    , all = FALSE
+    , run = 4L
+    , epsilon.noise = 0.001
+    , epsilon.b = 1000
+    , random.init = TRUE
+    , zscore.file = "genotypes_lfmm_imputed_r4_s1.2.zscore"
+    , deviance = 78486.623634129
+    , DIC = 78412.8271832336
+)

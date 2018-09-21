@@ -1,0 +1,23 @@
+new("snmfProject"
+    , snmfProject.file = "genotypes.snmfProject"
+    , projDir = "/Users/dequeirk/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/LEA/LFMM_punctatus_t70_s10_n46_pc1_v7_k5/"
+    , snmfDir = "genotypes.snmf/"
+    , input.file = "genotypes.geno"
+    , runs = list()
+    , K = c(3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L)
+    , snmfClass.files = c("K3/run1/genotypes_r1.3.snmfClass", "K3/run2/genotypes_r2.3.snmfClass", 
+"K3/run3/genotypes_r3.3.snmfClass", "K3/run4/genotypes_r4.3.snmfClass", 
+"K3/run5/genotypes_r5.3.snmfClass", "K3/run6/genotypes_r6.3.snmfClass", 
+"K3/run7/genotypes_r7.3.snmfClass", "K3/run8/genotypes_r8.3.snmfClass", 
+"K3/run9/genotypes_r9.3.snmfClass", "K3/run10/genotypes_r10.3.snmfClass", 
+"K3/run11/genotypes_r11.3.snmfClass", "K3/run12/genotypes_r12.3.snmfClass", 
+"K3/run13/genotypes_r13.3.snmfClass", "K3/run14/genotypes_r14.3.snmfClass", 
+"K3/run15/genotypes_r15.3.snmfClass", "K3/run16/genotypes_r16.3.snmfClass", 
+"K3/run17/genotypes_r17.3.snmfClass", "K3/run18/genotypes_r18.3.snmfClass", 
+"K3/run19/genotypes_r19.3.snmfClass", "K3/run20/genotypes_r20.3.snmfClass"
+)
+    , n = 46L
+    , L = 3249L
+    , creationTime = structure(1529447976.90002, class = c("POSIXct", "POSIXt"))
+)

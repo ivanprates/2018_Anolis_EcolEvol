@@ -1,0 +1,23 @@
+new("snmfProject"
+    , snmfProject.file = "genotypes.snmfProject"
+    , projDir = "/Users/dequeirk/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/LEA/LFMM_ortonii_t70_s10_n23_pc1_v7_k2/"
+    , snmfDir = "genotypes.snmf/"
+    , input.file = "genotypes.geno"
+    , runs = list()
+    , K = c(2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L)
+    , snmfClass.files = c("K2/run1/genotypes_r1.2.snmfClass", "K2/run2/genotypes_r2.2.snmfClass", 
+"K2/run3/genotypes_r3.2.snmfClass", "K2/run4/genotypes_r4.2.snmfClass", 
+"K2/run5/genotypes_r5.2.snmfClass", "K2/run6/genotypes_r6.2.snmfClass", 
+"K2/run7/genotypes_r7.2.snmfClass", "K2/run8/genotypes_r8.2.snmfClass", 
+"K2/run9/genotypes_r9.2.snmfClass", "K2/run10/genotypes_r10.2.snmfClass", 
+"K2/run11/genotypes_r11.2.snmfClass", "K2/run12/genotypes_r12.2.snmfClass", 
+"K2/run13/genotypes_r13.2.snmfClass", "K2/run14/genotypes_r14.2.snmfClass", 
+"K2/run15/genotypes_r15.2.snmfClass", "K2/run16/genotypes_r16.2.snmfClass", 
+"K2/run17/genotypes_r17.2.snmfClass", "K2/run18/genotypes_r18.2.snmfClass", 
+"K2/run19/genotypes_r19.2.snmfClass", "K2/run20/genotypes_r20.2.snmfClass"
+)
+    , n = 23L
+    , L = 3412L
+    , creationTime = structure(1529448156.49078, class = c("POSIXct", "POSIXt"))
+)
