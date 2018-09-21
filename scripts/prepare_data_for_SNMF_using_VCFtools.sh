@@ -1,4 +1,4 @@
-### This script's goal is to filter the SNP data by MAP using VCFTools and get them ready for sNMF analyses.
+### The goal of this Unix shell script is to filter the SNP data by MAP using VCFTools and get them ready for sNMF analyses.
 ### By Ivan Prates with the help of Kevin P. Mulder, June 2018.
 ### Smithsonian National Museum of Natural History, Washington DC, USA.
 

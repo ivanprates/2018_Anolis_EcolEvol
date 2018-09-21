@@ -1,4 +1,4 @@
-### This script's goal is to run Fastqc to access raw read quality.
+### The goal of this Unix shell script is to run Fastqc to access raw read quality.
 ### By Ivan Prates, June 2018.
 ### Smithsonian National Museum of Natural History, Washington DC, USA.
 

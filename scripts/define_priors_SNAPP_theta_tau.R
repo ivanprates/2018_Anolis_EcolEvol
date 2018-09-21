@@ -1,4 +1,6 @@
-# Setting gamma distributions for SNAPP priors
+### R script to define gamma-distributed priors for the theta and tau parameters in SNAPP analyses.
+### By Ivan Prates, June 2018.
+### Smithsonian National Museum of Natural History, Washington DC, USA.
 
 #install.packages("viridis") for pretty color palletes
 library(viridis)

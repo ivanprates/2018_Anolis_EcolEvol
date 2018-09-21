@@ -1,4 +1,8 @@
-# Other packages we'll need:
+### R script for plotting climatic PC values extracted at sampled sites versus latitude.
+### By Ivan Prates and Anna Penna, June 2018.
+### Smithsonian National Museum of Natural History, Washington DC, USA.
+
+# Packages we'll need:
 #install.packages("magrittr")
 #install.packages("tidyr")
 #install.packages("plyr")

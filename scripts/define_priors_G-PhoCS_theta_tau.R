@@ -1,3 +1,7 @@
+### R script to define gamma-distributed priors for the theta and tau parameters in G-PhoCS analyses.
+### By Ivan Prates, June 2018.
+### Smithsonian National Museum of Natural History, Washington DC, USA.
+
 # Setting gamma distributions for SNAPP priors
 
 #install.packages("viridis") for pretty color palletes

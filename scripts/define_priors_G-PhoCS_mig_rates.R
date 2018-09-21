@@ -1,3 +1,7 @@
+### R script to define gamma-distributed priors for the migration rate parameters in G-PhoCS analyses.
+### By Ivan Prates, June 2018.
+### Smithsonian National Museum of Natural History, Washington DC, USA.
+
 # Assuming that
 u = 2.42*10^-9 #
 
