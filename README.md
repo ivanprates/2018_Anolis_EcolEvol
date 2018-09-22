@@ -1,4 +1,4 @@
-# 2018_Anolis_GEA
+# Prates et al. 2018 Ecology and Evolution
 
 This repository contains R and Unix shell scripts, data, and results from analyses of the manuscript entitled:
 
