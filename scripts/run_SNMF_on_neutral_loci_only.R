@@ -33,7 +33,7 @@ if (sp == "ortonii") {
   a = 100 # SNMF regularization parameter (alpha), defined based on results (added here just to make final plots)
   }
 
-# Set minimum read length
+# Set minimum read length (in bp)
 t = 70
 
 # Set maximum number of SNPs per locus

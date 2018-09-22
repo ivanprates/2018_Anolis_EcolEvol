@@ -28,10 +28,10 @@ envdata = all.envdata[c(13:31)]
 
 ## Select variables to keep
 
-# Select more easily interpretable, variable in geographic space, analogous between temp. and precip.
+# Select more easily interpretable, variable in geographic space, analogous metrics between temp. and precip.
 #sel.envdata = envdata[,variables[c(1:19)]] # all
 
-# Select more easily interpretable, variable in geographic space, analogous between temp. and precip.
+# Select more easily interpretable, variable in geographic space, analogous metrics between temp. and precip.
 #sel.envdata = envdata[,variables[c(1,5,6,10,11,12,13,14,16,17)]] # all
 
 # Select as above, but no cold/dry related, only hot/wet
@@ -84,3 +84,5 @@ points(pca$x[85:89,1], all.envdata$latitude[85:89], pch=21, cex=0.75, col="black
 #points(pca_rotated$scores[152:172,2], all.envdata$latitude[152:172], pch=24, cex=2, col="black", bg="#C9283E") # punctatus AF
 #points(pca_rotated$scores[1:67,2], all.envdata$latitude[1:67], pch=21, cex=2, col="gray30", bg="gray40") # ortonii AMz
 #points(pca_rotated$scores[68:73,2], all.envdata$latitude[68:73], pch=21, cex=2, col="black", bg="#4A33E8") # ortonii AF
+
+# Done!

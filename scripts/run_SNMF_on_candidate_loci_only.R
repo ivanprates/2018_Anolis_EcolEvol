@@ -30,7 +30,7 @@ if (sp == "ortonii") {
   myPalette = c("#440154", "#35b779", "#fde725")
 }
 
-# Set minimum read length
+# Set minimum read length (in bp)
 t = 70
 
 # Set maximum number of SNPs per locus
