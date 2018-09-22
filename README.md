@@ -7,8 +7,9 @@ This repository contains supporting information related to the manuscript entitl
 By Ivan Prates, Anna Penna, Miguel T. Rodrigues, and Ana C. Carnaval.
 
 The following information is provided:
-- R and Unix shell scripts used in all analyses.
+- R and Unix shell scripts used to prepare and filter the data and perform all analyses.
 - R code used to define prior ranges for the parameters of SNAPP and G-PhoCS analyses.
+- R code used to make plots of population genetic structure from SNMF results.
 - Genetic and environmental data used in all analyses.
 - Configuration files used in SNAPP (.xml) and G-PhoCS (.ctl) analyses.
 - Results from analyses performed in R using the LEA package (LFMM, SNMF, PCA).
