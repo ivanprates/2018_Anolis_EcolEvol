@@ -2,15 +2,16 @@
 ### By Ivan Prates, June 2018.
 ### Smithsonian National Museum of Natural History, Washington DC, USA.
 
-#install.packages("viridis") for pretty color palletes
+# We'll use the viridis color palletes for plotting:
+#install.packages("viridis")
 library(viridis)
 
 # Given a mutation rate of:
 u = 2.42*10^-9 # from Prates et al. 2016 Molecular Ecology (average mutation rate among all genes of the three lizards)
 
-# 1. For lambda:
+# 1. For theta:
 
-# The tree height in generations is: 
+# The tree height in number of generations is: 
 gen = 1620000 # from Prates et al. 2016 Molecular Ecology (T4 of A. punctatus)
 gen = 1120000 # from Prates et al. 2016 Molecular Ecology (T4 of A. ortonii)
 
@@ -44,3 +45,5 @@ par(new = T) # plot in same graph
 par(new = F) # to stop plotting on top
 }
 par(new = F) # to stop plotting on top
+
+# Done!

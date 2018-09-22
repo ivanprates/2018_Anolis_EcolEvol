@@ -29,3 +29,5 @@ mv ${s}_1SNP-locus_tmp.012 ${s}_1SNP-locus.012 # rename temp file as final 012 f
 
 # close the loop:
 done
+
+# Done!

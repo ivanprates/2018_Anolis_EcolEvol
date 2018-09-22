@@ -2,7 +2,7 @@
 ### By Ivan Prates, June 2018.
 ### Smithsonian National Museum of Natural History, Washington DC, USA.
 
-# for Anolis punctatus (npops = 3), height = 0.0039
+# for Anolis punctatus (npops = 3), tree height = 0.0039
 
 python /Users/dequeirk/Dropbox\ \(Smithsonian\)/ivan_lab/2018_Anolis_GEA/2017_Chapter_4/SNAPP/setting_priors/pyule/yule.py height 0.0039 3
 

@@ -2,8 +2,12 @@
 ### By Ivan Prates, June 2018.
 ### Smithsonian National Museum of Natural History, Washington DC, USA.
 
-# Assuming that
-u = 2.42*10^-9 #
+# We'll use the viridis color palletes for plotting:
+#install.packages("viridis")
+library(viridis)
+
+# Given a mutation rate of:
+u = 2.42*10^-9 # from Prates et al. 2016 Molecular Ecology (average mutation rate among all genes of the three lizard species)
 
 # G-PhoCS estimates m, given by:
 # m = M/u
@@ -37,9 +41,8 @@ scale
 
 variance = shape/rate*rate
 variance
-# Plot:
 
-library(viridis)
+# Plot:
 par(mfrow = c(length(rate), 1)) # number of plot rows = number of rate values
 for (j in 1:length(rate)) {
   for (i in 1:length(shape)) { # shapes go together, so in inside loop
@@ -55,3 +58,5 @@ for (j in 1:length(rate)) {
   par(new = F) # to stop plotting on top
 }
 par(new = F) # to stop plotting on top
+
+# Done!
