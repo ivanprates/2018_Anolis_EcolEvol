@@ -2,7 +2,7 @@
 
 This repository contains information associated with the manuscript entitled:
 
-**Local adaptation in widespread anole lizards: Integrating population history and genome-environment associations**.
+**Local adaptation in mainland anole lizards: Integrating population history and genome-environment associations**.
 
 By Ivan Prates, Anna Penna, Miguel T. Rodrigues, and Ana C. Carnaval.
 
