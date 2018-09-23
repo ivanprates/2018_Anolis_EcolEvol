@@ -16,6 +16,7 @@ The following information is provided:
 - Data used to make maps shown in Fig. 1 of the manuscript.
 
 Raw read data was deposited in the Sequence Read Archive and can be retrieved at:
+
 https://www.ncbi.nlm.nih.gov/sra/PRJNA492310
 
 The manuscript is currently in press in Ecology and Evolution (September 2018).
