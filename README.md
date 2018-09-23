@@ -15,4 +15,6 @@ The following information is provided:
 - Results from analyses performed in R using the LEA package (LFMM, SNMF, PCA).
 - Data used to make maps shown in Fig. 1 of the manuscript.
 
-The manuscript was accepted for publication in Ecology and Evolution on September 2018.
+Raw read data was deposited in the Sequence Read Archive and can be retrieved at: https://www.ncbi.nlm.nih.gov/sra/PRJNA492310
+
+The manuscript is currently in press in Ecology and Evolution (September 2018).
