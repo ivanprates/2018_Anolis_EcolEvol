@@ -27,14 +27,14 @@ path = "~/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/"
 sp = "punctatus"
 
 # Set minimum read length 
-# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here)
+# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here.
 t = 70
 
 # Set maximum number of SNPs per locus
-# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here)
+# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here.
 s = 10
 
-# Settings for each species (this is very specific to my dataset, e.g., how I named my individual samples)
+# Settings for each species (this is very specific to my dataset, e.g., how I named my individual samples).
 if (sp == "ortonii") {
   sp.short = "orto_" # That's how I named species during GBS library sequencing
   n = 23

@@ -34,11 +34,11 @@ if (sp == "ortonii") {
   }
 
 # Set minimum read length (in bp)
-# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here)
+# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here.
 t = 70
 
 # Set maximum number of SNPs per locus
-# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here)
+# This is a parameter in ipyrad. I included parameter values in the name of ipyrad output files - this is why this is here.
 s = 10
 
 # Pick general path, depending on which computer I'm working at:
