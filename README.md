@@ -25,5 +25,6 @@ https://www.ncbi.nlm.nih.gov/sra/PRJNA492310
 
 Supplementary information can be find in the Dryad Digital Repository at:
 
-doi:10.5061/dryad.1bj51s9
+https://doi.org/10.5061/dryad.1bj51s9
+
 
