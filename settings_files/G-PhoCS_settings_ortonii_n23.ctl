@@ -11,11 +11,22 @@ GENERAL-INFO-START
 
 		tau-theta-print		1
 		tau-theta-alpha		1
-		tau-theta-beta		1000
+		
+	  # value used and reported in the paper
+		tau-theta-beta		20 
+		
+		# value previously reported in github 
+		#tau-theta-beta		1000
 
 		mig-rate-print		1
 		mig-rate-alpha		1
-		mig-rate-beta		0.00002
+		
+	  # value used and reported in the paper
+		mig-rate-beta		0.0000002
+		
+		# value previously reported in github 
+		#mig-rate-beta		0.00002
+		
 		#start-mig		10000
 
 		locus-mut-rate		CONST
@@ -49,7 +60,13 @@ ANCESTRAL-POPS-START
 		POP-START
 				name		root
 				children		amz	af
-				tau-initial		0.002
+				
+				# value used and reported in the paper
+				tau-initial		0.003
+				
+				# value previously reported in github
+				#tau-initial		0.002
+		
 		POP-END
 
 ANCESTRAL-POPS-END
