@@ -12,9 +12,6 @@ u = 2.42*10^-9 # from Prates et al. 2016 Molecular Ecology (average mutation rat
 # G-PhoCS estimates m, given by:
 # m = M/u
 
-# So, given m equals:
-m = 20
-
 # To estimate M: 
 M = m*u
 M # (proportion of ind. in pop. 1 that arose from migration from pop. 2 per generation)
@@ -25,10 +22,6 @@ M = 1/1000
 M = 1/1000000
 m = M/u
 m # from 413 to 4.13M
-
-m = 5000000
-M = m*u
-M
 
 # For migration, implement gamma parameters as:
 shape = c(1)
