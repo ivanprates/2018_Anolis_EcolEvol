@@ -22,7 +22,7 @@ library(tidyr)
 # Pick general path, depending on which computer I'm working from:
 path = "~/Dropbox (Smithsonian)/ivan_lab/2018_Anolis_GEA/2018-03/"
 
-# Set target species (using only two species)
+# Set target species
 #sp = "ortonii"
 sp = "punctatus"
 
