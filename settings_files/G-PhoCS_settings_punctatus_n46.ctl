@@ -15,17 +15,11 @@ GENERAL-INFO-START
 	  # value used and reported in the paper
 		tau-theta-beta		20 
 		
-		# value previously reported in github 
-		#tau-theta-beta		1000
-
 		mig-rate-print		1
 		mig-rate-alpha		1
 		
 		# value used and reported in the paper
 		mig-rate-beta		0.0000002
-		
-		# value previously reported in github 
-		#mig-rate-beta		0.00002
 		
 		#start-mig		10000
 
@@ -74,11 +68,7 @@ ANCESTRAL-POPS-START
 				# value used and reported in the paper
 				tau-initial		0.004
 				
-				# value previously reported in github
-				#tau-initial		0.003
-		
-		
-		POP-END
+	  POP-END
 		
 
 ANCESTRAL-POPS-END
